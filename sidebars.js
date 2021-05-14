@@ -44,7 +44,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Info',
+      label: 'Miscellaneous',
       collapsed: true,
       items: [
         "browser-extensions",

@@ -11,7 +11,7 @@ This website is a collection of the best digital piracy resources. This will hel
 
 > What happened to the GitHub repo?
 
-GitHub randomly decided to suspen my account and didn't even let me backup the repos. I recovered the repo from one of the forks.
+GitHub randomly decided to suspend my account and didn't even let me backup the repos. I recovered the repo from one of the forks.
 
 > Why was this even created?
 
