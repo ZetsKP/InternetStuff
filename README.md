@@ -26,4 +26,4 @@ All the information on this website is purely for informational purposes and is 
 
 ## License
 
-[![License](https://img.shields.io/gitlab/license/piracy/piracy?style=for-the-badge)](LICENSE)
+The MIT License
