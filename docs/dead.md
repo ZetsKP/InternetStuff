@@ -33,4 +33,6 @@ This basically graveyard for all the dead links. None the links here are active 
 - [BaconFeet](https://web.archive.org/web/*/baconfeet.com/) - "Bringing a difference in streaming to the masses." ([r/BaconFeet](https://web.archive.org/web/*/www.reddit.com/r/BaconFeet/)).
 - [KissManga](https://web.archive.org/web/*/kissmanga.com/)
 - [KissAnime.ru](https://web.archive.org/web/*/kissanime.ru/) - Official russian KissAnime community.
-- [Apollo TV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
+- [Apollo TV](https://web.archive.org/web/*/apollotv.xyz/) - Open-source aggregator for various online video content.
+- [Yiff.Party](https://web.archive.org/web/*/yiff.party/) - [source code](https://web.archive.org/web/*/github.com/yiffparty/tracker) - Web scraper website that uses bots to crawl various different Patreon campaigns, mainly those of furry content creators.
+  - [YiffyScraper](https://github.com/yiffscraper/yiffscraper) - Based on the original script by u/KilljoyWonderland, and new and updated + working versions to script for scraping content off YP.

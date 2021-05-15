@@ -64,8 +64,7 @@ sidebar_label: Misc
 
 ## Patreon
 
-- [Yiff.Party](https://yiff.party/) - [source code](https://github.com/yiffparty/tracker) - Web scraper website that uses bots to crawl various different Patreon campaigns, mainly those of furry content creators.
-- [YiffyScraper](https://github.com/yiffscraper/yiffscraper) - Based on the original script by u/KilljoyWonderland, and new and updated + working versions to script for scraping content off YP.
+
 
 ## YouTube
 
