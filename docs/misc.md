@@ -64,7 +64,8 @@ sidebar_label: Misc
 
 ## Patreon
 
-
+- [kemono.party](https://kemono.party/) - Similar to YiffParty.
+- [e-hentai](https://e-hentai.org/) - Has a lot of user submitted patreon content.
 
 ## YouTube
 
