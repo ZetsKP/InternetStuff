@@ -10,4 +10,3 @@ sidebar_label: DC++
 - [AirDC++](https://www.airdcpp.net/) - Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) - Windows/Linux/macOS DC++ client, with ADC and DHT support.
 - [FlylinkDC++](http://www.flylinkdc.com/) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
-- [Linux DC++](https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.

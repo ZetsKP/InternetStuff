@@ -35,7 +35,6 @@ sidebar_label: Browser Extensions
 - [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Change your Browser referer.
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternative to Firefox first party isolation.
 - [Trace - Online Tracking Protection](https://absolutedouble.co.uk/trace/) - HTML5 Canvas protection for [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) - & [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
-- [zero-width-chrome-extension](https://github.com/chpmrc/zero-width-chrome-extension) - Replace scary zero-width characters with funny emojis in Chrome to reduce the Browser fingerprint.
 - [ScriptSafe](https://github.com/andryou/scriptsafe) - Similar to NoScript with some nice features.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.

@@ -3,7 +3,7 @@ title: IPTV
 sidebar_label: IPTV
 ---
 
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
+- [IPTV Providers list](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [fastocloud](https://github.com/fastogt/fastocloud) - IPTV/Video cloud admin panel for servers.
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
 - [Xtream Codes](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
@@ -15,7 +15,6 @@ sidebar_label: IPTV
 - [allsprk.tv](https://stream.allsprk.tv) - Channel-hoppable live streaming site with a chat room.
 - [antennas](https://github.com/TheJF/antennas) - HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 - [IPTV Community](https://iptv.community/) - Technology and IPTV discussion website, useful for finding an IPTV provider/reseller.
-- [IPTV Providers list](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [MythTV](https://www.mythtv.org/) - Free Open Source software digital video recorder.
 - [PIPTV](https://github.com/schwifty42069/piptv) - Python IPTV client with over 80 channels.
 - [Piracy and automation, an overview Guide by /u/JukeCity101](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)

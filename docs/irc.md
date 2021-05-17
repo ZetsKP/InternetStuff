@@ -3,7 +3,6 @@ title: IRC
 sidebar_label: IRC
 ---
 
-- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - A plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) - XDCC Downloading For Beginners: Do It Like A Pro!.
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) - XDCC (Xabi DCC or eXtended DCC) - is a computer file sharing method which uses the Internet Relay Chat (IRC) - network as a host service.
 - [ZNC](https://github.com/znc/znc) - An advanced IRC bouncer.
@@ -17,7 +16,6 @@ sidebar_label: IRC
   - [mreg](https://github.com/Igglybuff/mreg) - Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 - [mIRC](http://www.mirc.com/) - The original IRC client for Windows.
 - [HexChat](http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it is completely free for both Windows and Unix-like systems.
-- [irssi](http://irssi.org/) - Your text mode chatting application since 1999.
 - [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support.
 - [KVIrc](https://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
 - [Shout](https://github.com/erming/shout) - The self-hosted web IRC client.

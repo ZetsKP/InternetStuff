@@ -14,7 +14,6 @@ sidebar_label: Media Centre Applications
 - [OSMC](https://osmc.tv/) - OSMC (short for Open Source Media Center) - is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music and movie streaming server with a client app and web frontend.
 - [Streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
-- [Stremio](https://www.stremio.com/) - Multi-platform video content aggregator with a comprehensive add-on system for extending functionality.
 - [Viewscreen](https://github.com/viewscreen/viewscreen) - A personal video streaming server.
 
 ## Plex

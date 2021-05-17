@@ -14,11 +14,9 @@ sidebar_label: Misc
 - [TheWarezFolder](http://thewarezfolder.com/) - Fairly out of date categorised list of warez sites.
 - [Familienforum.biz](http://www.familienforum.biz/) - Sky cracking news, and other topics.
 - [Multiup](https://multiup.org/) - Website which allows you to upload files to several different file hosting websites.
-- [DirtyWarez](https://dirtywarez.org/) - Lists top warez sites with Alexa rankings and other metadata.
 - [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) - An archive of all gilded /r/Piracy comments and threads.
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit /r/Piracy subreddit.
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) - Wikipedia's list of warez groups and individuals.
-- [LinkSnappy](https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
 - [DVBKing](https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
 - [Radio Garden](http://radio.garden) - Free Radio stations.
 - [Leech Premium](https://leechpremium.link/) - Premium leech service.
@@ -97,7 +95,7 @@ sidebar_label: Misc
 - [130GB of flash games](http://bluemaxima.org/flashpoint/downloads/) - Almost all flash games archived.
 - [GOG Dump](http://web.archive.org/web/20190429144618/https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
-- [Nintendo Update Server (NUS) - Backup](https://drive.google.com/drive/folders/1miUUsBt7oJ3nJ0x_V1d6Pnz1OevtnrWn)
+
 - [Microsoft Games Collection](http://web.archive.org/web/20190429144409/https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
 - [LibGen & Sci-Hub torrent archive](http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/).
 - [emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.

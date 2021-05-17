@@ -11,9 +11,7 @@ sidebar_label: Games
 - [Playing Resident Evil Outbreak File#1 and File#2 Online Again! YES!](https://www.removeddit.com/r/residentevil/comments/5x99m9/playing_resident_evil_outbreak_file1_and_file2/)
 - [List of DRM-free games](https://steam.fandom.com/wiki/List_of_DRM-free_games) - A list of games and software available on Steam that do not have DRM.
 - [The Big List of DRM-Free Games on Steam](https://www.pcgamingwiki.com/wiki/The_Big_List_of_DRM-Free_Games_on_Steam) - List all games on Steam which are DRM-free.
-- [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) - All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) - Magnet links site to download games from GOG.
-- [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum.
 - [CDRomance](https://cdromance.com/) - PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.
@@ -24,6 +22,7 @@ sidebar_label: Games
   - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) - Reddit post by /u/EssenseOfMagic.
 - [Is Cracked?](https://iscracked.info/) - Similar likle Crackwatch, provides Infos if the game was already cracked or not, among Game information and release date.
 - [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
+- [MPGH](https://www.mpgh.net/) - Multiplayer game hacking (makes money via ads).
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 - [Scenegames](https://scenegames.to/) - GoD scene releases.
 - [GOD Games](https://god-games.com/) - GOD is alive.
@@ -35,16 +34,14 @@ sidebar_label: Games
 - [Otomi Games](https://otomi-games.com/)
 - [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/)
 
-## Tools
-
-- [MPGH](https://www.mpgh.net/) - Multiplayer game hacking (makes money via ads).
-- [SSElauncher](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
-
 ## PC
 
 - [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega & others).
-- [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](https://write.as/ress/).
+- [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods.
+  - Tor Mirror: [csrinru3c2ownkep.onion/forum](http://csrinru3c2ownkep.onion/forum/)
+  - [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js))
+  - [Blog](https://write.as/ress/).
 - [Firestorm](https://firestorm-servers.com/) - Games & more.
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
 - [GamesFull](https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
@@ -56,7 +53,6 @@ sidebar_label: Games
 - [Steamunlocked](https://steamunlocked.net) - Pre-installed/cracked steam games - just hit start and play.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://www.warmane.com/) - Hosts private WoW Servers.
-- [Mabandonware](https://www.myabandonware.com/) - Older Video games.
 - [IGG-GAMES](https://igg-games.com/) - A popular DDL site that aggregates repacked and GOG games.
 - [GAMESTORRENT](https://pcgamestorrents.com/) - Hosts the same content as IGG-GAMES for users who prefer torrents.
 
@@ -80,7 +76,6 @@ sidebar_label: Games
 ## Console
 
 - [r/PkgLinks](https://www.reddit.com/r/PkgLinks/) - A place to share working Playstation 4 PKGs.
-- [NoPayStation](https://nopaystation.com) - A Database for PSN content including Vita, PS3, PSX, and PSP.
 - [r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) - Nintendo Switch games.
 - [r/PkgLinks](https://www.removeddit.com/r/PkgLinks/) - A place to share working Playstation 4 PKGs.
 - [r/SwitchNSPs](https://www.removeddit.com/r/SwitchNSPs/) - Nintendo Switch games.
@@ -92,6 +87,9 @@ sidebar_label: Games
 - [SPEEDLounge](http://speedlounge.in/) - XBox360, XBox, PlayStation and other Games.
 - [Up2date list for Xbox 360](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - An up2date list for Xbox 360 games.
 - [xbox360iso](http://www.xbox360iso.com/) - XBox 360 Game collection.
+- [Switch SN Checker](https://akdm.github.io/ssnc/scanner/)
+- [NCubeJ Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
+- [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
 
 ### PlayStation
 
@@ -103,22 +101,7 @@ sidebar_label: Games
 
 - [3DS Decrypter utility](https://github.com/matiffeder/stuff) - Decrypt 3DS files.
 - [3dscia](https://www.3dscia.to/) - Nintendo 3ds CIA files.
-- [GDrive 1](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
-- [GDrive 2](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
-- [GDrive 3](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
-- [Mega.nz 1](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection.
-- [Mega.nz 2](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console.
 - [3DS-Paradise](https://3ds-paradise.com/) - One of the biggest 3DS forums in france.
-
-### Mame Games
-
-- [PleasureDome](http://www.pleasuredome.org.uk/index.php) - Various games for Mame.
-
-### Nintendo Switch
-
-- [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
-- [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
-- [Switch SN Checker](https://akdm.github.io/ssnc/scanner/)
 
 #### Custom Firmware
 
@@ -127,25 +110,6 @@ sidebar_label: Games
 - [ReiNX](https://github.com/Reisyukaku/ReiNX)
 - [SX OS](https://sx.xecuter.com/)
 - [IsMySwitchPatched.com](https://ismyswitchpatched.com/) - Check if your CFW is already patched or not.
-
-### Game Boy
-
-- [G-Drive](https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Includes Game Boy ROM's (together with N64 etc) - and BIOS files.
-- [GDrive (mirror)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) - Password `snahp.it`.
-- [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Password `snahp.it`.
-- [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
-
-### GameCube
-
-- [Archive.org](https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
-- [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
-
-### Wii
-
-- [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) - EU only games.
-- [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Wiiware and VC collection.
-- [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC.
-- [GDrive](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
 
 #### Wii Hacking
 
@@ -245,22 +209,16 @@ sidebar_label: Games
 
 - [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 - [Xatab Repacks](https://xatab-repack.net) - Russian game repacker, primarily torrents.
-- [ElAmigos Games](https://www.elamigos-games.com/) - Premium links to cracked games.
-- [qoob.name](http://qoob.name/) - Repacker site.
 - [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too.
-- ["A simple script for easily downloading emulator.games ROMs"](https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [BlackBox](http://www.blackboxrepack.com/) - A well known forum/site for game repacks.
 - [DODI](http://dodi-repacks.site/) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
 - [ElAmigos Games](https://www.elamigos-games.com/) - Premium links to cracked PC games.
-- [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
 - [NitroBlog](https://nblog.org/) - Plenty of ISOs, ROMs & repacks.
 - [qoob.name](http://qoob.name/) - Repacker site of popular cracker teams like CPY, PLEX etc.
 - [R.G Mechanics](https://rg-mechanics.org/) - Various repacks.
-- [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!.
 - [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
-- [Xatab Repacks](https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
 - [Zorro](https://zorro.thebitbrine.com/) - Search engine for repacks from FitGirl, Xatab, Skidrow & more...
 - [TorrentGames](https://utorrentgames.org/) - (`RU`) - Russian game repacker site, delivers the games via torrent.
 
@@ -270,7 +228,7 @@ sidebar_label: Games
 - [The Eye ROMs](http://the-eye.eu/public/rom/) - Open directory of ROMs from The Eye.
 - [The ROM Depot](https://theromdepot.com/roms/) - About 3TB of ROMs. You may need a VPN.
 - [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
-- ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
+  - [A simple script for easily downloading emulator.games ROMs](https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) - via [reddit](https://reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 - [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
 - [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
@@ -287,7 +245,6 @@ sidebar_label: Games
 - [Romulation.net](https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [WowroMs](https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
-- [xprism's BIOS collection](https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" via GDrive.
 
 ## Homebrew and Custom Firmware
 

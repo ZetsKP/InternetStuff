@@ -95,8 +95,6 @@ sidebar_label: DDL
 ## Streaming
 
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
-- [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
-- [Movie Files](https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
 - [DL WarezForums](https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
 - [TTDG](http://185.105.101.95/) - Movies via streaming.
@@ -120,11 +118,8 @@ sidebar_label: DDL
 - [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
 - [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
 - [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters.
-- [OD-Database](https://od-db.the-eye.eu/) - Database of searchable open directories curated by The-Eye.eu.
 - [IPLIVE](https://iplive.club/) - DDL search engine.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
-- [ololo](https://ololo.to/) - A video streaming link search engine.
-- [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [Anonembed](http://anonembed.xyz/) - Search Engine for Rapidvideo, Google Drive, Google photos, Verystream & more.
 - [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
 - [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
@@ -134,7 +129,6 @@ sidebar_label: DDL
 - [snahp.it](https://snahp.it/) - Replaced /r/megalinks.
   - [Snahp.it Forum](https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
 - [BlackPearl.biz](https://blackpearl.biz/) - Drop-in replacement for snahp.it while their registrations remain closed.
-- [Movies "R" Us](https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [TwoDDL](http://2ddl.ws) - Direct download links.
 - [RapidMoviez](http://rmz.cr/)
 - [MkvCage](https://www.mkvcage.ws/)
@@ -196,7 +190,6 @@ sidebar_label: DDL
 - [PSARips](https://psarips.com/) - Popular site for movies and TV shows, includes torrent files.
 - [RADIXX11](https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
 - [Reduson](https://www.reduson.com/) - (EN/RU) - Another software portal for various type of releases like software, magazines, games and many more.
-- [ReleaseBB](https://rlsbb.ru/) - (RU) - Russian Software Portal.
 - [RSLinks](https://rslinks.org/) - Tracks scene software releases and mirrors them.
 - [Rsload](https://rsload.net/) - (RU/EN) - A big software portal.
 - [RU-Board](http://forum.ru-board.com/) - (RU) - Well-known russian warez board.
@@ -250,7 +243,6 @@ sidebar_label: DDL
 
 - [The Eye](https://the-eye.eu/public/) - The Eye is a non-profit website dedicated to content archival and long-term preservation.
   - [/public/Piracy/](https://the-eye.eu/public/Piracy/)
-  - [exodos.the-eye.eu](https://exodos.the-eye.eu/)
   - [In progress subreddit archive](https://the-eye.eu/r)
   - [All DOS based games](https://exodos.the-eye.eu)
   - [Keygens](https://parazite.the-eye.eu/)
@@ -273,7 +265,6 @@ sidebar_label: DDL
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings.
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) - Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit.
 - [The Holy Grail of Indexes](https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
-- [Andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
 - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
 - [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
 - [AIOSearch Guide](https://www.reddit.com/r/Piracy/comments/fa81st/aio_search_guide/)
@@ -293,6 +284,3 @@ sidebar_label: DDL
 - [Crawli](https://crawli.net) - Searches for online/offline content.
 - [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
 - [filediva](http://www.filediva.com) - Yet another meta search engine.
-- [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
-- [IPLIVE](https://iplive.club/) - DDL search engine.
-- [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
