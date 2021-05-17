@@ -114,14 +114,11 @@ sidebar_label: Anime
 ## downloading
 
 - [Hi10 Anime](https://hi10anime.com/) - High-Quality 10-bit Anime Encodes.
-- [Anime Kaizoku](https://animekaizoku.com/) - Up to 1080p DDL links, mostly Google Drive.
 - [Anime Kayo](https://animekayo.com/) - Up to 1080p DDL links, mostly Google Drive.
 - [animeEncodes](https://www.animencodes.com/) - High-Quality Anime Encodes.
 - [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
-- [watchcartoononline.io](https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies.
 - [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
-- [AnimeVibe Lite v3](https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 - [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
 - [anime-downloader](https://github.com/vn-ki/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [TheHylia](https://anime.thehylia.com/) - TH's download section offers anime series with all their episodes for download in a very otherwise difficult to get AVI and MKV file forms.

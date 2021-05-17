@@ -10,7 +10,6 @@ sidebar_label: Comics and Manga
 - [NovelPlanet](ttps://novelplanet.com/) - Free, english, bannerads.
 - [NovelPlanet](https://novelplanet.com/) - Free and english novels.
 - [manga_downloader](https://github.com/LLostVayne/manga_downloader) - Python scraper that will download mangas from mangareader.net.
-- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
 - [MangaZone](http://mangazoneapp.com/) - A manga reader app.
 - [Kindle Comic Converter](https://kcc.iosphe.re/) - Comic and manga converter for ebook readers.
@@ -29,7 +28,6 @@ sidebar_label: Comics and Manga
   - [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
   - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) - Download novels, manga raws and artbooks.
 - [NineAnime](https://www.nineanime.com/) - Updated/Active Manga Site.
-- [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
 - [ComicPunch.net](https://comicpunch.net/) - Formerly ReadComicsOnline.net.
 - [ReadComicsOnline](http://readcomicsonline.ru/) - Russian version of old ReadComicsOnline.
 - [Mangareader.net](https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
@@ -42,7 +40,6 @@ sidebar_label: Comics and Manga
 - [Mangabat](https://mangabat.com/) - Read Manga Online for free.
 - [Animeheaven.eu](http://animeheaven.eu/) - Read Manga Online for free.
 - [Kissasian](http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
-- [KissComic](http://readcomiconline.to/)
 
 ## Comics and Manga Automation
 

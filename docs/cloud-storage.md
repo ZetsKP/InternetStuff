@@ -20,7 +20,6 @@ sidebar_label: Cloud Storage
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) - Regularly updated table of information about top cloud storage providers.
 - [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
 - [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
-- [Multcloud](https://www.multcloud.com/) - Transfer and manage your multiple cloud files with one app. 100% Free.
 - [ownCloud](http://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [nextCloud](http://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [Syncthing](http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.

@@ -32,7 +32,6 @@ sidebar_label: Tools
 
 - [NFO Force](https://nfforce.temari.fr) - NFO viewers from the scene
 - [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
-- [NFForce](http://nfforce.temari.fr/) - Another NFO viewer.
 
 ## Dashboards and Homepages
 

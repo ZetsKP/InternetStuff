@@ -3,8 +3,6 @@ title: Music and podcasts
 sidebar_label: Music and podcasts
 ---
 
-- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
 - [ddl-music.to](http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share.
 - [94hiphop](http://94hiphop.com/) - Download Free Hip Hop Albums!.
 - [Bandcamp](https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) - music (DRM free).
@@ -68,15 +66,12 @@ sidebar_label: Music and podcasts
 - [KHInsider](https://downloads.khinsider.com/) - Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) - Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) - Search engine with streamable samples and download links.
-- [chimera](https://notabug.org/Aesir/chimera) - Multiple source terminal-based music downloader with audio search engine.
 - [Plus Premieres](https://www.pluspremieres.nz/) - iTunes M4A Music.
 
 ### Tidal
 
 - [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/macOS (PYTHON/C#).
 - [Ti-DL](https://github.com/Sorrow446/Ti-DL) - Tool written in Python to download AACs & FLACs from Tidal for Windows, macOS & Linux. Sister of Qo-DL and GPM-DL.
-- [Athame](https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) - and works across almost every OS.
 - [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
 ## Library Manager

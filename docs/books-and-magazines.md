@@ -10,15 +10,8 @@ sidebar_label: eBooks
 - [Ubooquity](http://vaemendis.net/ubooquity/) - Ubooquity is a free home server for your comics and ebooks library.
 - [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.).
 - [b-ok](http://b-ok.xyz/) - Free ebook library.
-- [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks but were afraid to ask.
 - [Calibre](https://calibre-ebook.com/) - Management tool for ebook.
-- [Calibre-Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
-- [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) - Blog post detailing how to use Shodan to find Calibre ebook servers.
-- [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks.
-- [ReadAnyBook](https://readanybook.com/) - Free online reading.
-- [PDF Giant](http://pdf-giant.com/) - Various categories of downloadable PDFs.
-- [MagazineLib](https://magazinelib.com/) - Free PDF and interactive e-magazines.
 - [Ebook 3000](http://ebook3000.com/) - Various magazines.
 - [FlipHTML5](http://fliphtml5.com/explore) - International magazines.
 - [MagazineLib](https://magazinelib.com/) - Free PDF and interactive e-magazines.
@@ -27,8 +20,6 @@ sidebar_label: eBooks
 - [ABook](http://abook.ws/) - One of the oldest book search indexers.
 - [BinSearch](http://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
 - [EBook Bike](https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
-- [EBookEE](https://ebookee.org/) - Tech, Database, Java and many many other categories.
-- [FreeBookSpot](http://www.freebookspot.es/) - Similar to eBookEE.
 - [GingaDaddy](http://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [oznzb](https://www.oznzb.com) - Yet another ebook search engine.
 - [PDFDrive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
@@ -45,11 +36,9 @@ sidebar_label: eBooks
 - [BitSpyder](https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
 - [BookBoon](http://bookboon.com/) - World’s largest publisher of online educational literature.
 - [BookSC](https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
-- [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [BookYards](http://www.bookyards.com/) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
 - [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
-- [COPS](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.).
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - A GitHub repository of all the scripts and other tools for removing DRM from ebooks.
@@ -73,9 +62,8 @@ sidebar_label: eBooks
 - [KnowFree](http://knowfree.tradepub.com/) - Access free research, white papers, reports, case studies, magazines, and eBooks.
 - [LeanPub](https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
 - [LibGen](http://gen.lib.rus.ec/) - The website has now an app which lets you search their database and download the books via their desktop app.
-  - [Mirror 1](http://gen.lib.rus.ec/)
-  - [Mirror 2](https://libgen.pw/)
-  - [mirror 3](http://libgen.is/)
+  - [Mirror 1](https://libgen.pw/)
+  - [mirror 2](http://libgen.is/)
 - [LibriVox](https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
 - [ManyBooks](http://manybooks.net/) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 - [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - Over 2 million torrents.

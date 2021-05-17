@@ -34,7 +34,6 @@ sidebar_label: Usenet
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) - \$7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
 - [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
 - [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) - news feed.
-- [Usenet Crawler](https://www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
@@ -80,7 +79,6 @@ sidebar_label: Usenet
 - [NZBVortex 3](https://www.nzbvortex.com/landing/) - Simply the best Usenet client for Mac.
 - [alt.binz](https://www.altbinz.net/) - A powerful binary newsreader, for downloading and managing articles from Usenet.
 - [Newsbin](http://newsbin.com/about.php) - Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
-- [NZBGet](http://nzbget.net/) - Efficient Usenet downloader written in C++ which is bit lighter on system resources than SABNZBd.
 - [PowerNZB](http://powernzb.co.uk/) - The Ultimate Binary Usenet Client for Android.
 - [SABnzbd](http://sabnzbd.org/) - SABnzbd is an open-source binary Newsreader written in Python.
 - [spotweb](https://github.com/spotweb/spotweb) - Spotweb is a decentralized Usenet community based on the Spotnet protocol.

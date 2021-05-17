@@ -6,7 +6,6 @@ sidebar_label: Creative assets
 - [Get the Font](https://www.getthefont.com/) - Searches through GitHub for free fonts.
 - [GFxtra](https://www.gfxtra.com/) - DDL-links for graphics, icons, 3D models, and more!.
 - [GraphicEx](https://graphicex.com/) - Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more.
-- [How to download paid Fonts for free](https://reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find fonts online.
 - [Tomato.to](https://tomato.to/) - Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [Web4Sync](https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography.
 - [CGPeers](https://www.cgpeers.com) - (needs login) - A big platform for not only graphics.

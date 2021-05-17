@@ -20,7 +20,6 @@ sidebar_label: Courses
 - [ForCoder.su](https://forcoder.su/) - Coding related courses and tutorials.
 - [FreeCourseLab](https://freecourselab.com/) - Download Paid Udemy Courses Free.
   - [Mirror](https://www.freecoursesonline.me/)
-- [FreeCourseSite.com](https://freecoursesite.com/) - Provides Udemy courses for free.
 - [freecoursesite.us](https://freecoursesite.us/) - Download All Udemy Paid Courses And Tutorials Free.
 - [FreeCourses](http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
 - [FTU Forum](https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.

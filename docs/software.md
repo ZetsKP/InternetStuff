@@ -10,9 +10,7 @@ sidebar_label: Software
 - [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
 - [r/piracy/wiki/tools](https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
 - [nsane.down](https://www.nsanedown.com/) - A popular file-sharing forum focused on software.
-- [Appked](https://www.macbed.com/) - Mac application sharing site.
 - [/s/sjain_guides](https://saidit.net/s/sjain_guides) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
-- [My Digital Life Forums](https://forums.mydigitallife.net/) - Popular forum for modded/cracked software and apps.
 - [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 - [Photokaaran](http://photokaaran.com/) - Indian site with direct download links of cracked productivity tools.
@@ -26,12 +24,11 @@ sidebar_label: Software
 - [DDGroupClub](http://ddgroupclub.win/) - (`RU`).
 - [Fost.Club](http://fost.club/) - (`RU`).
 - [KaranPC](https://karanpc.com) - Yet another community around Windows software.
-- [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
 - [PiratBit](https://pb.wtf/) - (`RU`).
 - [PirateCity](https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
 - [RuTracker](http://rutracker.ru/) - (`RU`).
 - [RadiXX11](https://radixx11rce2.blogspot.com/) - Provides software cracks and keygens for various software.
-- [Sanet.st](https://sanet.st/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
+- [Sanet.st](https://sanet.st/) - Also known as "SoftArchive", is a portal to provide Windows and MacOS software cracks.
 - [Softlay](https://softlay.net) - Windows software mirrors.
 - [Softpilot](https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
 - [Tapochek](https://tapochek.net/) - (`RU`).
@@ -41,8 +38,6 @@ sidebar_label: Software
 - [Underver.se](https://underver.se/) - (`RU`).
 - [Uniondht](http://uniondht.org/) - (`RU`).
 - [Digiboy](https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
-- [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
-- [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
 - [OnHaxCrack](https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
 - [PirateCity](https://www.piratecity.net) - Various Software releases.
 - [CrackHomes](https://crackhomes.com) - Yet another release page.
@@ -131,11 +126,9 @@ sidebar_label: Software
 - [AskWoody](https://www.askwoody.com/) - News, tips, advice, support for Windows, Office, PCs & more. Also provides information regarding hotfixes & patches.
 - [Simplix Blog](https://blog.simplix.info/update7/) - Windows Hotfix repository.
 - [UUPDump](https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
-- [Windows ISO + Hotfix mirrors](https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
 
 ### Activation
 
-- [HWIDGEN](https://github.com/CHEF-KOCH/HWIDGEN-SRC) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](https://github.com/CHEF-KOCH/HWIDGEN-SRC).
 - [KMS Activator](https://yzyveojj6tqzqwe5muzglg-on.drv.tw/KVA/ReadMe36.html) - The original open source repo for KMS related activation & research.
 - [KMS Server Emulator written in Python](https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
 - [PIDChecker](https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
@@ -161,7 +154,6 @@ sidebar_label: Software
 - [Mac Torrent Download](https://mac-torrent-download.net/) - (needs ad-blocker) - Provides cracks for macOS. Be careful, each click triggers an ad.
 - [Mac Torrents](http://mactorrent.co) - Lots of macOS Warez.
 - [nMac.to](https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for macOS.
-- [Sanet](https://sanet.st/) - Windows and uncracked software as well as macOS cracked software.
 - [GetIntoPC](https://getintopc.com/) - Last place to look for macOS software.
 - [Olarila](http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
 
@@ -192,9 +184,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [HiAppHere](https://www.hiapphere.com/app/index/index?sort=update) - Another alternative app market.
 - [Aptoide](https://en.aptoide.com/) - An alternative repository-based marketplace for Android applications.
 - [Yalp Store](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store.
-- [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
 - [ACMARKET](https://acmarket.net/) - Download android apps & games free.
-- [Android Zone](https://android-zone.ws/) - Another place to find premium links for APKs.
 - [RevDl](https://www.revdl.com/) - Direct download site for Android apps and games.
 - [RexDL](https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) - Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
@@ -258,7 +248,6 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
 - [KrakenTV](https://krakentv.app/download/) - Watch dozens of different TV channels from the comfort of your Android device.
 - [TopMoviesonline](https://topmoviesonline.org/topmoviesonline-app/) - App to get notified about netx tv shows, movies and trailers, it also allows you to watch videos.
-- [Liveflix](https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [MediaBox HD](https://mediaboxhd.net/) - Provides tv shows, movies & more on Android + iOS.
 - [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
 - [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish.
@@ -302,7 +291,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 ### Tools
 
-- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
+- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. It has a Xposed module which you can use (in case you use Xpose)
 - [Jasi Patcher (AKA Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games.
   - [ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
@@ -350,13 +339,12 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Systemless TZData](https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
 - [Viper4Android FX Legacy Materialized](https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo!.
 - [Wireless Firmware for Nethunter](https://github.com/Magisk-Modules-Repo/wirelessFirmware) - Adds the required firmware for external wireless adapters to be used with Nethunter.
-- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://newpipe.schabi.org/).
+- [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback.
 - [FDE](https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.
 
 #### EdXposed Modules
 
 - [List of Xposed Modules For Android Pie Working With Ed Xposed](https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
-- [Lucky Patcher](https://www.luckypatchers.com/download/) - LP also has a Xposed module which you can use (in case you use Xpose).
 - [Material Design Xposed Installer](https://forum.xda-developers.com/xposed/material-design-xposed-installer-t3137758) - An unofficial Xposed installer with some useful tweaks.
 - [RootCloak](https://repo.xposed.info/module/com.devadvance.rootcloak2) - Allows you to run apps that detect root without disabling root.
 

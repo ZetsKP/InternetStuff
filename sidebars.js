@@ -5,7 +5,7 @@ module.exports = {
       type: 'category',
       label: 'Info',
       collapsed: true,
-      items: ["laws", "security"],
+      items: ["laws", "privacy", "security"],
     },
     {
       type: 'category',

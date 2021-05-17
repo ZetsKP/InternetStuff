@@ -25,14 +25,14 @@ sidebar_label: Telegram
 - [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
 - [Butter Bot](https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
 - [Rclone-Telegram-Bot](https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
-- [Nana-Remix](https://github.com/pokurt/Nana-Remix) - Dual-Session Powerful Telegram Userbot with many useful features written in Python using pure Pyrogram. 
+- [Nana-Remix](https://github.com/pokurt/Nana-Remix) - Dual-Session Powerful Telegram Userbot with many useful features written in Python using pure Pyrogram.
+
 ## Bridges
 
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
 - [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
 - [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
-- [Telegram to Discord Bridge](https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
 
 ## Discussion Channels
 
@@ -43,9 +43,7 @@ sidebar_label: Telegram
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
 - [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
 - [FontesPremiumGwD](https://t.me/FontesPremiumGwD) - A channel to share premium fonts.
-- [iMediaShare channel](https://t.me/iMediaShare) - Movies, TV shows, apps, and more.
 - [Piracy Links Portal](https://t.me/PiracyLinks) - Official invite links portal for piracy groups & channels.
-- [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ### Accounts Channels
 
@@ -62,7 +60,6 @@ sidebar_label: Telegram
 - [@freexonlinexcourse](https://t.me/freexonlinexcourse) - Free udemy courses.
 - [Free Udemy Courses](https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
 - [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
-- [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
 - [udemydeals](https://t.me/udemydeals) - Free udemy courses!
 
 ### APK Channels
@@ -124,9 +121,7 @@ sidebar_label: Telegram
 - [candroidsoftware](https://t.me/candroidsoftware) - Freee APK's and software.
 - [CGPersia Downloads](https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
 - [crackedpcsoftwares](https://t.me/crackedpcsoftwares) - PC, mobile and other applications sharing.
-- [Crackwatch tracker](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
 - [Keygen Fortress](https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
-- [Piracy Main](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
   - [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive.
   - [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
@@ -188,7 +183,6 @@ sidebar_label: Telegram
 - [@s4n1t4t10n](https://t.me/s4n1t4t10n)
 - [@sanskritsahitya](https://t.me/sanskritsahitya)
 - [@sciencebooks1](https://t.me/sciencebooks1)
-- [@SciHub](https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
 - [@selfhelpbooklab](https://t.me/selfhelpbooklab)
 - [@SelfHelpBooks4U](https://t.me/SelfHelpBooks4U)
 - [@spiritualbooks](https://t.me/spiritualbooks)
@@ -240,7 +234,6 @@ sidebar_label: Telegram
 - [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
-- [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
 - [@GooglePlayDownloader_bot](https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
 - [@PlinkBot](https://t.me/PlinkBot)
 - [@SearchBazarBot](https://t.me/SearchBazarBot) - Search Bazar and get information.
@@ -274,7 +267,6 @@ sidebar_label: Telegram
 
 ### Movies and TV Shows Bots
 
-- [@utubebot](https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
 - [@imdb](https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
 - [@piracy_bot](https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
 - [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Monitor and get notified about upcoming movies and tv series.
@@ -323,9 +315,7 @@ sidebar_label: Telegram
 ### Social Media Bots
 
 - [@twittervid_bot](https://t.me/twittervid_bot) - Download Twitter videos.
-- [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
 - [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
-- [@YtbDownBot](https://t.me/YtbDownBot) - Social media download bot
 - [@redditdownloader_bot](https://t.me/redditdownloader_bot) - Reddit media download bot
 - [@redditgrambot](https://t.me/redditgrambot) - Reddit image download bot
 - [@redditvidbot](https://t.me/redditvidbot) - Reddit video download bot
@@ -374,7 +364,6 @@ sidebar_label: Telegram
 - [@ChannelIdBot](https://t.me/ChannelIdBot) - Get Channel Infos.
 - [@vajehyabbot](https://t.me/vajehyabbotvajehyabbot) - Get Channel Infos.
 - [@ReadmeBot](https://t.me/ReadmeBot)
-- [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
 - [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
 - [@lightzcloud](https://t.me/lightzcloud)
 - [@torrenttodrivezone](https://t.me/torrenttodrivezone)

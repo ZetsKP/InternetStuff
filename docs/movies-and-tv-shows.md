@@ -180,10 +180,10 @@ sidebar_label: Movies and TV shows
 - [Serie-Streaming](https://www.guardaserie.tube/)
 - [Seriecomplete](https://w22.seriecomplete.com/series/)
 - [SKStream](https://launchpad.net/skstream)
-- [Streamcomplet](https://www.streamcomplet.page/fr/) - _sometimes offline_.
+- [Streamcomplet](https://www.streamcomplet.page/fr/) - sometimes offline.
 - [Streaming-VOSTFR](https://vostfree.com/) - Anime an TV shows.
 - [StreamingDIVX1](https://StreamingDIVX1.com)
-- [Time2watch](https://time2watch.gg/) - _sometimes offline_.
+- [Time2watch](https://time2watch.gg/) - sometimes offline.
 - [Voir-Films-Series](https://www.voirfilms.al/series/)
 - [VOSTFRSerie](https://vostfrserie.biz/)
 - [Wikiserie](https://www.wikiserie.biz/)

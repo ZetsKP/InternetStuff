@@ -6,17 +6,13 @@ sidebar_label: Torrents
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [magent2torrent.me](http://magnet2torrent.me/) - Converts magnet links to torrent files.
 - [mgnet.me](http://mgnet.me/) - Magnet URI shortener.
-- [xbit](https://xbit.pw) - Magnet link repository.
-- [Torrents.csv](https://torrents-csv.ml/) - An [open source](https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [mktorrent](https://github.com/Rudde/mktorrent) - A simple command line utility to create BitTorrent metainfo files.
 - [qtorrent.in](http://www.qtorrent.in/) - A free, fast, powerful and legal Magnet URI indexer.
-- [Torrent Paradise](https://torrent-paradise.ml/) - IPFS-based decentralised torrent search engine.
 - [torrent.nz](https://torrent.nz/) - Torrent.nz is a magnet torrent search engine.
 - [r/torrents](https://www.removeddit.com/r/torrents) - Questions and discussion about all things torrent-related.
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Wikipedia's article on the BitTorrent file sharing protocol.
 - [Live Tracer](https://trace.corrupt-net.org/live.php) - Pre-time tracer for scene releases.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) - Searches Heroku-deployed instances of Peerflix for streaming torrents.
-- [RapidBay](https://github.com/hauxir/rapidbay) - Rapid bay is a self hosted video service/torrent client that makes playing videos from torrents easy.
 - [The Pirate Society](https://thepiratesociety.org/forums/) - A members-only forum for pirates.
 - [Torrage](https://torrage.info/) - Torrage is a free service for caching torrent files online.
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
@@ -24,9 +20,6 @@ sidebar_label: Torrents
 - [Nutbread](https://nutbread.github.io/t2m/) - Open source website to convert .torrent files to magnet URI(s).
 - [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - I2P torrent tracker for TV Shows.
 - [BTCloud](https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
-- [Filestream.me](https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
-- [Furk](https://www.furk.net/) - (Needs invite) Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
-- [Seedr](https://seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [Streamza](https://streamza.com/)
 
 ## Torrent Search Engine
@@ -81,8 +74,7 @@ sidebar_label: Torrents
 - [Milkie](https://milkie.cc/) - Added another upcoming private tracker site.
 - [MyAnonaMouse](https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [Nostalgic Torrents](https://nostalgic.is/) - (NT) - Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
-- [PassThePopcorn](https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
-- [PassThePopCorn (PTP)](https://passthepopcorn.me/) - Blu-Ray rips and other stuff.
+- [PassThePopcorn (PTP)](https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
 - [PolishSource](https://polishsource.cz/) - (PS) - PolishSource is a big private Polish ratio-less tracker.
 - [PolishTracker](https://pte.nu/) - (PT) - PolishTracker is the oldest private Polish tracker.
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) - V4 of the private tracker flowchart. Somewhat out of date.
@@ -177,7 +169,6 @@ sidebar_label: Torrents
 - [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places.
   - [`piratebayztemzmv.onion`](http://piratebayztemzmv.onion/) - Onion address.
   - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
-- [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
 - [TorrentFunk](https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](https://torrentgalaxy.org/) - Public tracker with a clean UI.
@@ -185,8 +176,7 @@ sidebar_label: Torrents
 - [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!.
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
-- [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
-- [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
+- [Torrents-csv.ml](https://torrents-csv.ml) - An [open-source](https://gitlab.com/dessalines/torrents.csv) torrent search engine tracker for all sorts of torrents.
 - [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
 - [YggTorrent](https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
@@ -218,14 +208,13 @@ sidebar_label: Torrents
 - [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers, it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, DuckieTV, qBittorrent, etc) - into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software.
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) - Primarily a Usenet meta search engine but also supports Torznab.
-- [Radarr](https://github.com/Radarr/Radarr) - (make sure you [turn click-tracking off](https://i.imgur.com/QpP1M6Q.png)) - A fork of Sonarr to work with movies à la Couchpotato.
-- [SickRage](https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Sonarr](https://github.com/Sonarr/Sonarr) - (make sure you [turn click-tracking off](https://i.imgur.com/QpP1M6Q.png)) - Smart PVR for newsgroup and Bittorrent users.
+- [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [SickRage](https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Bitport](https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 
 ## Tracker Frameworks
 
-- [opentracker](https://erdgeist.org/arts/software/opentracker/) - Opentracker is an open and free BitTorrent tracker project.
 - [Gazelle](https://whatcd.github.io/Gazelle/) - A web framework geared towards private torrent trackers with a focus on music.
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
 - [NexusPHP](https://github.com/ZJUT/NexusPHP) - BitTorrent private tracker scripts written in PHP.
@@ -263,8 +252,6 @@ sidebar_label: Torrents
 - [qBittorrent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 - [Plugin list for qBittorrent](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - Plugins for Public sites (requires Python).
 - [qBitTorrent search function](http://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular torrent trackers and download rss/torrents.
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular trackers directly from qBittorrent.
-- [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - List of qBitTorrent plugins for searching public torrent sites.
 
 ### Deluge
 
@@ -285,7 +272,6 @@ sidebar_label: Torrents
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) - Detailed article to answer most common questions about rTorrent.
 - [pyrocore](https://github.com/pyroscope/pyrocore) - A collection of tools for the BitTorrent protocol and especially the rTorrent client.
 - [rTorrent research](https://calomel.org/rtorrent_mods.html) - Security modifications and other hacks for usability.
-- [flood](https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) - This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
 - [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
@@ -299,30 +285,15 @@ sidebar_label: Torrents
 ## Seedboxes
 
 - [r/seedboxes](https://www.removeddit.com/r/seedboxes) - A place to discuss seedboxes and everything related to them.
-- [2Giga.link](https://www.2giga.link/) - Free file hoster, Torrent caching & Premium link generator.
-- [Bitport.io](https://bitport.io/) - Download torrents in the cloud and stream them online.
 - [DediSeedBox](https://dediseedbox.com/) - Netherlands located Seeedbox service.
-- [FileStream.me](https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
-- [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
-- [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
-- [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) - Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 - [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-- [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
-- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
-- [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) - Docker-Compose Files for Media Server Related Apps (Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc).
-- [QuickBox IO](https://quickbox.io/) - Seedbox installer script.
-- [rtinst](https://github.com/arakasi72/rtinst) - Seedbox installation script for Ubuntu and Debian systems.
-- [sboxsetup](https://github.com/dannyti/sboxsetup) - Another Seedbox setup script.
 - [Seedbox Guide](https://seedboxgui.de/) - Comparison tool to help you find the best fitting Seedbox.
-- [swizzin](https://swizzin.ltd/) - A light, modular package management suite for media-oriented servers.
-- [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
 - [Webtor](https://webtor.io/) - Watch torrents online.
 - [JSTorrent](https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://github.com/astro/bitford) - Open Source WebTorrent Client for Chrome.
 - [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
 - [Torrents Time](https://torrents-time.com/) - Download and Watch Torrents Directly From Your Browser.
-- [TorrentSafe](https://www.torrentsafe.com/) -
 
 ### Web-based Cloud Seedboxes
 
@@ -336,7 +307,6 @@ sidebar_label: Torrents
 - [Foxleech](https://www.foxleech.com/) - No free trial, plans start at \$3 per month.
 - [Boxopus](https://boxopus.com/) - No free trial, plans start at \$0.99 per day.
 - [Put.io](https://put.io/) - \$0.99 1 day trial.
-- [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers, and files on Put.IO.
 
 ### Seedbox Hosting Providers
 
@@ -364,7 +334,6 @@ sidebar_label: Torrents
 ### Seedbox Setup Tools and Guides
 
 - [swizzin](https://swizzin.ltd/) - A light, modular package management suite for media-oriented servers.
-- [Seedbox Guide](https://seedboxgui.de/) - Comparison tool to help you find the best fitting Seedbox.
 - [rtinst](https://github.com/arakasi72/rtinst) - Seedbox installation script for Ubuntu and Debian systems.
 - [sboxsetup](https://github.com/dannyti/sboxsetup) - Another seedbox setup script.
 - [QuickBox IO](https://quickbox.io/) - Seedbox installer script.
@@ -372,3 +341,4 @@ sidebar_label: Torrents
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [OpenFLIXR](http://www.openflixr.com/) - OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
+- [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
