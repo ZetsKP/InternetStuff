@@ -478,10 +478,43 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 
 ### Android
 
+- ⭐ [android-security-awesome](https://github.com/ashishb/android-security-awesome) - Android security resources
 - [Intra](https://getintra.org/) - Intra gives you safer, more open internet access.
 - [DNSFilter](https://f-droid.org/en/packages/dnsfilter.android/) - No-root ad-blocker and DNS changer.
 - [Nebulo DNS](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) - DNS Changer for DNS over HTTPS/TLS.
-- [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. needs ROOT access.
+- [Guardian Project](https://guardianproject.info/), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools
+- [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - Two-factor authentication
+- [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
+- [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Link Unshorten / URL Cleanup
+- [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
+- [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - Privacy Manager
+- [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - Disable App Trackers
+- [Exodus](https://reports.exodus-privacy.eu.org/en/) - Android App Tracker &amp; Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
+- [NetGuard](https://www.netguard.me/) - Block Internet Access Per App
+- [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewall
+- [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - Freeze App Background Activities
+- [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security
+- [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)
+- [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US) - System wide tor for android
+- [Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser) or [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) - Privacy-Focused Browser
+- [Barinsta](https://barinsta.austinhuang.me/en/latest/) - Privacy Based Instagram Client
+- [GrapheneOS](https://grapheneos.org/) - Privacy and security focused mobile OS
+- [Intra](https://play.google.com/store/apps/details?id=app.intra&hl=en_US) - System Wide DoH for Android
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
+- [Adgaurd VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - Free VPN
+- [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - Proxy
+- [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - Camera / Mic Access Indicator
+- [CamWings](https://schiffer.tech/camwings-mobile.html) - Camera Protection
+- [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - Screen Protection
+- [Stingle Photos](https://stingle.org/) - Private Photo / Video Gallery
+- [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - Encrypted Messaging
+- [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
+- [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/) or [Element](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
+- [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
+- [DPITunnel](https://github.com/zhenyolka/DPITunnel) - Bypass Deep Packet Inspection
+- [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) - Automatic Bluetooth Disabler
+- [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) - Lock your Phone via Movement
+- [Catch the Man-in-the-Middle](https://play.google.com/store/apps/details?id=me.brax.certchecker) - Check if HTTPS Traffic is being Monitored
 
 ## SMS
 
