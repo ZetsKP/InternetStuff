@@ -371,12 +371,21 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [WebCare360](https://webcare360.com/) - Powerful Offshore cpanel shared hosting provider.
 - [WRZHost.com](http://wrzhost.com/) - WrzHost specializes in allowing warez, and acts as a safe-haven for people wanting to start warez-related projects with anonymity. They offer shared hosting, Linux VPS’s and dedicated servers.
 
-# Proxy
+## Proxy
 
-- ⭐ [List of Proxies](https://free-proxy-list.net/) + [List 2](https://proxy-daily.com/)
+:::caution
 
-## Proxy Apps
+[Why You Shouldn’t Use a Free Proxy](https://www.vpnmentor.com/blog/why-you-shouldnt-use-free-proxies/) - VpnMentor
+[Proxy Services Are Not Safe. Try These Alternatives](https://www.wired.com/2015/07/proxy-services-totally-unsecure-alternatives/) - WIRED
+[HydraX.net ‘Google Drive Streaming Proxy’ Traffic Being Sent to ACE Anti-Piracy Coalition](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/) - TorrentFreak
 
+:::
+
+- [v2rayN](https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
+- [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols.
 - [Psiphon](https://psiphon.ca/)
 - [PenguinProxy](https://www.penguinproxy.com/)
 - [uProxy](https://github.com/UWNetworksLab/uProxy-p2p)
@@ -388,8 +397,19 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon
 - [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit proxy usage by private windows
 - [Hitch](https://hitch-tls.org/) - SSL / TLS proxy
+- [List of Proxies](https://free-proxy-list.net/) + [List 2](https://proxy-daily.com/)
 
-## Proxy Sites
+### Reverse Proxies
+
+- [bitmitigate.com](https://bitmitigate.com)
+- [blazingfast.io](https://blazingfast.io)
+- [Cloudflare](https://www.cloudflare.com)
+- [ddos-guard.net](https://ddos-guard.net/en)
+- [Geniusguard.com](https://www.geniusguard.com)
+- [puroxy.org](https://puroxy.org)
+- [x4b.net](https://www.x4b.net)
+
+### Proxy Sites
 
 - [PROXY List](https://github.com/TheSpeedX/PROXY-List) - Proxies
 - [Unblocked](https://unblocked.how/) - Piracy Site Proxies
@@ -414,32 +434,6 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 - [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 - [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
-
-## Proxy
-
-:::caution
-
-[Why You Shouldn’t Use a Free Proxy](https://www.vpnmentor.com/blog/why-you-shouldnt-use-free-proxies/) - VpnMentor
-[Proxy Services Are Not Safe. Try These Alternatives](https://www.wired.com/2015/07/proxy-services-totally-unsecure-alternatives/) - WIRED
-[HydraX.net ‘Google Drive Streaming Proxy’ Traffic Being Sent to ACE Anti-Piracy Coalition](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/) - TorrentFreak
-
-:::
-
-- [v2rayN](https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
-- [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
-- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
-- [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols.
-
-### Reverse Proxies
-
-- [bitmitigate.com](https://bitmitigate.com)
-- [blazingfast.io](https://blazingfast.io)
-- [Cloudflare](https://www.cloudflare.com)
-- [ddos-guard.net](https://ddos-guard.net/en)
-- [Geniusguard.com](https://www.geniusguard.com)
-- [puroxy.org](https://puroxy.org)
-- [x4b.net](https://www.x4b.net)
 
 ## Operating Systems
 
