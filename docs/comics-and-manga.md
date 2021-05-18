@@ -40,6 +40,9 @@ sidebar_label: Comics and Manga
 - [Mangabat](https://mangabat.com/) - Read Manga Online for free.
 - [Animeheaven.eu](http://animeheaven.eu/) - Read Manga Online for free.
 - [Kissasian](http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
+- [🧅 Comic Books](http://r6rfy5zlifbsiiym.onion/series/0021)
+- [🧅 Imperial](http://xfmro77i3lixucja.onion/)
+- [🧅 Tor Library](http://am4wuhz3zifexz5u.onion/)
 
 ## Comics and Manga Automation
 

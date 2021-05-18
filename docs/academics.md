@@ -6,7 +6,9 @@ sidebar_label: Academics
 - [All IT eBooks](http://www.allitebooks.com/) - A big database of free, direct links for IT and programming ebooks.
 - [forcoder](https://forcoder.su/) - Ebooks & Elearning for Programming.
 - [it-ebooks](http://it-ebooks.info) - Large selection of free and open source IT ebooks.
-- [Z-Libary](https://b-ok.cc/) - A lot textbooks which hosts books directly.
+- [Z-Library](https://z-lib.org/) - Programmig and educational eBooks.
+  - [Mirror](https://b-ok.cc/)
+  - [Tor Mirror](http://2bu5puxp6afwjgql.onion/)
 - [epdf](https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
 - [PDF/Ebook trackers for college textbooks](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities.
 - [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers.

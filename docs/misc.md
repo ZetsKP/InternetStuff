@@ -35,6 +35,7 @@ sidebar_label: Misc
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) - collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
 - [Unblocked](https://unblockit.pw/) - A Proxy site for accessing your favorite blocked sites.
   - [unblocked-pw.github.io](https://unblocked-pw.github.io/) - Mirror on Github.
+
 ## Piracy News & Forums
 
 - [r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.

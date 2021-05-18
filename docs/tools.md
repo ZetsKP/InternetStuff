@@ -71,7 +71,6 @@ sidebar_label: Tools
 - [mp3pro.xyz](https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 - [ontiva.com](https://ontiva.com/) - Free Youtube downloader and converter.
 
-
 ## File Renaming and Tagging
 
 - [r/datacurator](https://www.removeddit.com/r/datacurator/) - Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
@@ -119,6 +118,7 @@ sidebar_label: Tools
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) - WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [FileBin](https://filebin.net/) - Convenient file sharing on the web, without registration.
+- [OnionShare](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) - OnionShare is an open source tool that lets you securely and anonymously share files.
 
 ## Audio Editing
 
@@ -127,7 +127,6 @@ sidebar_label: Tools
 - [RightMark Audio Analyzer (RMAA)](https://www.softpedia.com/get/System/Benchmarks/RightMark-Audio-Analyzer.shtml) - Check sound quality of your audio hardware.
 - [fre:ac](https://www.freac.org/) - Free audio converter and CD ripper with support for various popular formats and encoders.
 - [Evano](https://evano.com/online-audio-converter) - Free audio converter and editor with support for various popular formats and encoders such as MP3 WAV M4A OGG.
-
 
 ## Video Editing
 
@@ -139,7 +138,6 @@ sidebar_label: Tools
 - [XMedia Recode](http://www.xmedia-recode.de/en/) - Freeware video and audio transcoding program.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Save space by quickly and losslessly trimming video and audio files.
 - [Evano](https://evano.com/online-video-converter) - Free video converter and editor with support for various popular formats and encoders such as MP4 WMV AVI MKV.
-
 
 ## Shell Script Development Tools
 

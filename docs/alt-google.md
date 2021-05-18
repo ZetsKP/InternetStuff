@@ -3,7 +3,6 @@ title: Google services alternatives
 sidebar_label: Google alternatives
 ---
 
-
 # YouTube
 
 - [Bitchute](https://www.bitchute.com/) - Aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely.

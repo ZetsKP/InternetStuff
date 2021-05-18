@@ -2,14 +2,14 @@ module.exports = {
   mainSidebar: [
     "home",
     {
-      type: 'category',
-      label: 'Info',
+      type: "category",
+      label: "Info",
       collapsed: true,
-      items: ["laws", "security"],
+      items: ["laws", "privacy", "security", "ad-blocking"],
     },
     {
-      type: 'category',
-      label: 'Content Type',
+      type: "category",
+      label: "Content Type",
       collapsed: true,
       items: [
         "cartoons-and-anime",
@@ -28,8 +28,8 @@ module.exports = {
       ],
     },
     {
-      type: 'category',
-      label: 'Sources',
+      type: "category",
+      label: "Sources",
       collapsed: true,
       items: [
         "torrents",
@@ -43,8 +43,8 @@ module.exports = {
       ],
     },
     {
-      type: 'category',
-      label: 'Miscellaneous',
+      type: "category",
+      label: "Miscellaneous",
       collapsed: true,
       items: [
         "browser-extensions",

@@ -35,7 +35,6 @@ sidebar_label: eBooks
 - [Bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
 - [BitSpyder](https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
 - [BookBoon](http://bookboon.com/) - World’s largest publisher of online educational literature.
-- [BookSC](https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
 - [BookYards](http://www.bookyards.com/) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
 - [Boundless](https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
@@ -79,7 +78,6 @@ sidebar_label: eBooks
 - [TheGeeks](https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
 - [Twirpx](https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
 - [BookTracker](https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC.
-- [Z-Lib.org](https://z-lib.org/) - Programmig and educational eBooks.
 - [dlfeb](http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
 - [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A open source google books downloader with proxy support.
 - [2020ok](http://2020ok.com)
