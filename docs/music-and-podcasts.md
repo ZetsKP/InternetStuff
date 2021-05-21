@@ -54,13 +54,11 @@ sidebar_label: Music and podcasts
 
 ## Downloading
 
-- [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 - [Soulseek](http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) - A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - A streaming music downloader.
-- [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) - Another program with the same purpose, both based on the original, now defunct Deezloader.
-- [Deemix](https://deemix.app/) - A barebone deezer downloader library built from the ashes of Deezloader Remix.
-- [r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezloader.
+  - [Telegram](https://t.me/SMLoadrNews)
+- [Deemix](https://git.freezer.life/RemixDev/deemix-py) - A barebone deezer downloader library built from the ashes of Deezloader Remix.
 - [New Album Releases](http://newalbumreleases.net/) - Premium DDL links for full albums.
 - [Kingdom Leaks](https://kingdom-leaks.com/) - DDL links for album leaks.
 - [KHInsider](https://downloads.khinsider.com/) - Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
@@ -124,3 +122,31 @@ sidebar_label: Music and podcasts
 - [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 - [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
 - [kawai-scripts/soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
+
+## Android Tools
+
+- ⭐ [AIDS](https://forum.mobilism.org/viewtopic.php?f=1332&t=3897714) - Download / MP3 / FLAC
+- ⭐ [YouTube Music Vanced](https://vancedapp.com/) - Vanced, but for Youtube Music!
+- ⭐ [Spotify APK (Modded)](https://forum.mobilism.org/search.php?terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search&keywords=Spotify) - Spotify Mods on Mobilism (Needs login)
+- [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [Ylight Music](https://apt.izzysoft.de/fdroid/repo/com.ylightmusic.app/) or [YMusic](https://ymusic.io/) - YouTube Music Player
+- [Freezer](https://freezer.life/) - Stream / Download
+- [harmonoid](https://alexmercerind.github.io/harmonoid/) - Download
+- [Fildo](https://fildo.net/android/en/) - Streaming
+- [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
+- [smd](https://github.com/artyshko/smd) - Spotify Music Downloader
+- [Escapepod](https://f-droid.org/en/packages/org.y20k.escapepod/) - Podcasts
+- [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcasts / Radio
+- [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player) - Podcasts / Radio
+- [TuneIn](https://play.google.com/store/apps/details?id=tunein.player) - Podcasts / Radio
+- [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcasts
+- [PocketCasts](https://www.pocketcasts.com/) - Podcasts
+- [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
+- [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
+- [RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/) - Radio
+- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Radio
+- [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
+- [HaveRadiosion](https://f-droid.org/en/packages/click.dummer.have_radiosion/) - Radio
+- [Next Radio](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio) - Android FM Radio / Requires FM receiver chip
+- [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
+- [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
+- [AntennaPod](https://antennapod.org/) - FOSS Podcast Player

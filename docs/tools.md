@@ -7,11 +7,11 @@ sidebar_label: Tools
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [MacGuffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
 - [Outline](https://outline.com/) - Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls.
-- [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 - [Video decrypter](https://github.com/CrackerCat/video_decrypter)- Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 - [ShowRSS.info](http://showrss.info/) - Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
 - [Generate-HoustonLibrary-Codes](https://github.com/SharlSherif/Generate-HoustonLibrary-Codes) - A simple script to automate the process of getting a card number from Houstonlibrary.org in order to get free access to Lynda.com.
 - [dark.fail](https://dark.fail/) - Monitors darknet websites including markets and forums.
+  - [Tor Mirror](http://darkfailllnkf4vf.onion)
 - [Mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
 - [GetGoogleSpreadshee​t](https://www.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet) - Download a google spreadsheet as csv and import into a Matlab cell array.
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
@@ -169,3 +169,57 @@ sidebar_label: Tools
 - [urchin](https://github.com/tlevine/urchin) - An shell testing framework that uses only shell commands.
 - [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests.
 - [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH.
+
+## Android Tools
+
+- ⭐ [Lucky Patcher](https://www.luckypatchers.com/download/) - Remove Ads / Free In App Purchases / App Patcher / [How to use](https://latestechnews.com/how-to-use-lucky-patcher/)
+- [Jasi Patcher (AKA Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games.
+  - [ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)
+- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
+- [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) - Companion app for Ombi to request Plex content.
+- [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+- [ProSmart](http://prosmart.by/) - -ProSmart is a russian site which provides several apks, mods and games.
+- [Trashbox](https://trashbox.ru/) - Trashbox is the russian Mobilism.
+- [YMusic](https://ymusic.io/) - YouTube Music Player & Downloader.
+- [NewPipe](https://newpipe.schabi.org/) - The original YouTube experience without annoying ads and questionable permissions.
+- [nzb360](http://nzb360.com/) - nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
+- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go.
+- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid) - Enables you to remote control your desktop JDownloader from your pocket while you're on the go.
+- [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
+- [nzbUnity](https://nzbunity.dozenzb.com/) - iOS app for managing your favourite NZB applications.
+- [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
+- [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
+- [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
+- [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
+- [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Fork of Firefox with more Features
+- [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - Debloat non-rooted Androids
+- [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - File / URL Virus Scanner
+- [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Libgen Mobile App
+- [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
+- [AutomaTag](http://automatag.com/) - Meta Data Organizer
+- [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
+- [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms
+- [VMOS](https://www.vmos.com/) - Android Virtual Machine
+- [MacroDroid](http://macrodroid.com/) - Android Automation
+- [Videoder](https://www.videoder.com/) - Video Download Tool
+- [Uploadgram App](https://github.com/pato05/uploadgram-app) - Uploadgram Frontend
+- [Vysor](https://www.vysor.io/) or [scrcpy](https://github.com/Genymobile/scrcpy) - Control Android via Desktop
+- [LineageOS](https://www.lineageos.org/) or [Replicant](https://www.replicant.us/) - Android OS
+- [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play
+- [Eruda](https://github.com/liriliri/eruda) - Console for mobile browsers / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [PasteBin](https://pastebin.com/7qSZXjDS)
+- [Termux](https://termux.com/) - Terminal Emulator / Linux Environment
+
+### Android Emulators
+
+- ⭐ [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29)
+- [XePlayer](http://www.xeplayer.com/) - Fork of Nox / [Screenshot](https://i.imgur.com/qfmmwMB.jpg)
+- [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
+- [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
+- [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.imgur.com/1aZLVvi.png)
+- [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.imgur.com/URAJXJ6.png)
+- [Genymotion](https://www.genymotion.com/fun-zone/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg)
+- [BlueStacks](https://www.bluestacks.com/) - [Screenshot](https://i.imgur.com/E3DTvzA.png)
+- [AndY](https://www.andyroid.net/) - [Screenshot](https://i.imgur.com/RagdwA6.png)
+- [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png)

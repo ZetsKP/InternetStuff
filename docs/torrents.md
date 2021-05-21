@@ -235,17 +235,31 @@ sidebar_label: Torrents
 - [Transmission](https://transmissionbt.com/) - Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) - A legal fork of Popcorn Time which is configurable to allow for custom sources of video.
-- [BitLord](http://www.bitlord.com/) - Another BitTorrent streaming client.
 - [Tixati](https://tixati.com/) - Lightweight torrent client for Windows and Linux.
 - [PicoTorrent](https://picotorrent.org/) - A lightweight and minimalistic torrent client for Windows.
 - [FrostWire](https://www.frostwire.com/) - FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for Node.js.
 - [RapidBay](https://github.com/hauxir/rapidbay) - Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
-- [aTorrent](http://play.google.com/store/apps/details?id=com.mobilityflow.torrent&hl=en) - A modern Android application with new modern design!.
-- [TorrDroid](http://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 - [Tornado](http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [Tribler](https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
 - [Auto unRar](https://reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) - or via [script](https://github.com/arfoll/unrarall).
+- [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios) - iOS Torrent Client
+
+### Android
+
+- ⭐ [BitLord](http://www.bitlord.com/) - Easiest torrent app for streaming and downloading.
+- ⭐ [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
+- ⭐ [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - [Screenshot](https://i.imgur.com/8caBvYO.png)
+- [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
+- [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
+- [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
+- [zetaTorrent](https://play.google.com/store/apps/details?id=com.teeonsoft.ztorrent) - [Screenshot](https://i.imgur.com/3WAk94Q.png)
+- [WeTorrent](https://play.google.com/store/apps/details?id=co.we.torrent) - [Screenshot](https://i.imgur.com/vrCk8Na.png)
+- [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png)
+- [Transdroid](https://f-droid.org/packages/org.transdroid.full/) - Manage BitTorrent clients
+- [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager
+- [aTorrent](http://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - A modern Android application with new modern design!.
+- [TorrDroid](http://play.google.com/store/apps/details?id=intelligems.torrdroid) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 
 ### qBittorrent
 

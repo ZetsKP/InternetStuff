@@ -8,7 +8,7 @@ sidebar_label: Ad Blocking
 - [Stop Targeting Ads at Me](https://stoptargetingads.me/) or [Simple Opt Out](https://simpleoptout.com/) - Guides to turn off targeted ads on sites, apps, services & devices
 - [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts) or [Gas Mask](https://github.com/2ndalpha/gasmask) (Mac) - Avoid Ads Using Hosts File
 
-### Adblocking Extensions
+## Adblocking Extensions
 
 - ⭐ [uBlock Origin](https://github.com/gorhill/uBlock#installation) or [AdNauseam](https://adnauseam.io/) / [uBO Extra](https://github.com/gorhill/uBO-Extra) / [uBO Safari](https://github.com/el1t/uBlock-Safari)
 - ⭐ [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) or [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt) - Prevents sites from detecting adblocker / [Test](https://blockads.fivefilters.org/) /\_ ⭐ WARNING - \_Do [NOT](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/) use chrome version
@@ -30,7 +30,7 @@ sidebar_label: Ad Blocking
 - [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adguard browser extension
 - [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews & Counterfeits
 
-### DNS Adblocking
+## DNS Adblocking
 
 - [Adguard](https://adguard.com/en/adguard-dns/overview.html) - [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt) / [Filter](https://github.com/hl2guide/Filterlist-for-AdGuard)
 - [AlternateDNS](https://alternate-dns.com/index.php)
@@ -68,3 +68,23 @@ sidebar_label: Ad Blocking
 - [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 - [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 - [Slide](https://play.google.com/store/apps/details?id=me.ccrama.redditslide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Ad Free Reddit Client
+
+## iOS Adblocking
+
+- ⭐ [AdGuard Pro](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) - Systemwide Adblocker / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
+- [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads
+- [1Blocker](https://1blocker.com/) - Ablocker
+- [Ka-Block!](http://kablock.com/) - Adblocker
+- [Sanitize](https://apps.apple.com/ca/app/sanitize-ad-blocker/id1048309542) - Adblocker
+- [Privacy Pro](https://apps.apple.com/ca/app/privacy-pro-smartvpn/id1057771839) - Ad/Trackers Blocker
+- [Lockdown Apps](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - Adblocker
+- [BlockParty](https://github.com/krishkumar/BlockParty) - Adblocker
+- [Swab](http://swabthe.com/) - Adblocker
+- [Aesther](https://aesther.net/) - Blocks Ads, Trackers, Malware &amp; Revokes
+- [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351) - DNS Adblocker
+- [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - DNS Adblocker
+- [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - DNS Adblocker
+- [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - DNS Adblocker (No fake VPN)
+- [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblocker
+- [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
+- [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Ad Free Reddit Client

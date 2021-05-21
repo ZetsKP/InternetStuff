@@ -10,8 +10,6 @@ sidebar_label: Comics and Manga
 - [NovelPlanet](ttps://novelplanet.com/) - Free, english, bannerads.
 - [NovelPlanet](https://novelplanet.com/) - Free and english novels.
 - [manga_downloader](https://github.com/LLostVayne/manga_downloader) - Python scraper that will download mangas from mangareader.net.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
-- [MangaZone](http://mangazoneapp.com/) - A manga reader app.
 - [Kindle Comic Converter](https://kcc.iosphe.re/) - Comic and manga converter for ebook readers.
 - [readcomiconline.to](https://readcomiconline.to/) - Manga and comics uploaded daily.
 - [Comic Extra](https://www.comicextra.com/) - Daily comic uploads, clean UI.
@@ -43,6 +41,29 @@ sidebar_label: Comics and Manga
 - [🧅 Comic Books](http://r6rfy5zlifbsiiym.onion/series/0021)
 - [🧅 Imperial](http://xfmro77i3lixucja.onion/)
 - [🧅 Tor Library](http://am4wuhz3zifexz5u.onion/)
+
+## Android Tools
+
+- ⭐ [Tachiyomi](https://tachiyomi.org/) + _[Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks)_
+- [MangaZone](http://mangazoneapp.com/)
+- [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/)
+- [MangaMew](https://app.mangamew.com/)
+- [Kotatsu](https://github.com/nv95/Kotatsu)
+- [MiMangaNu](https://github.com/raulhaag/MiMangaNu)
+- [Neko](https://github.com/CarlosEsco/Neko)
+- [Meow](https://github.com/neverfelly/Meow)
+- [TheComicsLibrary](https://github.com/FabioPezzini/TheComicsLibrary) - Comic &amp; Manga Library
+- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light Novels / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB)
+
+## iOS Tools
+
+- [Manga Storm](https://apps.apple.com/us/app/manga-storm/id417341160)
+- [Manga Reader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
+- [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417)
+- [Manga Man](https://apps.apple.com/us/app/manga-man-manga-reader/id1489839722)
+- [MangaZone](https://apps.apple.com/app/id1181309509)
+- [ZETSU](https://testflight.apple.com/join/emEhlNGn)
+- [Paperback](https://paperback.moe/) - [Discord](https://discord.gg/Ny83JV3) / [App Store](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
 
 ## Comics and Manga Automation
 

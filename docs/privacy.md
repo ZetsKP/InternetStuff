@@ -493,11 +493,11 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [SuperFreezZ](https://f-droid.org/en/packages/superfreeze.tool.android) - Freeze App Background Activities
 - [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security
 - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) - Open Source, Privacy Oriented Email for Android / [f-Droid](https://f-droid.org/packages/eu.faircode.email/)
-- [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US) - System wide tor for android
+- [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) - System wide tor for android
 - [Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [BiscuitBrowser](https://github.com/CookieJarApps/BiscuitBrowser) or [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) - Privacy-Focused Browser
 - [Barinsta](https://barinsta.austinhuang.me/en/latest/) - Privacy Based Instagram Client
 - [GrapheneOS](https://grapheneos.org/) - Privacy and security focused mobile OS
-- [Intra](https://play.google.com/store/apps/details?id=app.intra&hl=en_US) - System Wide DoH for Android
+- [Intra](https://play.google.com/store/apps/details?id=app.intra) - System Wide DoH for Android
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 - [Adgaurd VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - Free VPN
 - [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) - Proxy

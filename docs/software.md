@@ -32,7 +32,7 @@ sidebar_label: Software
 - [Softlay](https://softlay.net) - Windows software mirrors.
 - [Softpilot](https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
 - [Tapochek](https://tapochek.net/) - (`RU`).
-- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
+- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) - Windows, iOS and Android apps and various activation tools.
 - [trec.to](http://trec.to/) - (`RU`).
 - [UltraTrack](http://uraltrack.net/) - (`RU`) - A forum for various repacks and in general a good place for software discussions.
 - [Underver.se](https://underver.se/) - (`RU`).
@@ -179,42 +179,103 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 ### Alternative app stores
 
-- [F-Droid](https://f-droid.org/en/) - A community-maintained software repository for Android, similar to the Google Play store.
+- ⭐ [F-Droid](https://f-droid.org/) - A community-maintained FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Alt Client](https://github.com/kitsunyan/foxy-droid)
 - [Apkmos](https://apkmos.com/) - The Best App Store For Download Android Apps, Games, Themes, Wallpapers And Much More.
 - [HiAppHere](https://www.hiapphere.com/app/index/index?sort=update) - Another alternative app market.
 - [Aptoide](https://en.aptoide.com/) - An alternative repository-based marketplace for Android applications.
 - [Yalp Store](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store.
 - [ACMARKET](https://acmarket.net/) - Download android apps & games free.
-- [RevDl](https://www.revdl.com/) - Direct download site for Android apps and games.
-- [RexDL](https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) - Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) - An open-source alternative for the Google Play Store.
-- [APK Combo](https://apkcombo.com/)
 
-### Mirrors and Mods
+### APK Mirrors and Mods
 
+- ⭐ [Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) + [Android APK CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) - Custom APK Search Engine
+- ⭐ [/r/ApksApps](https://www.reddit.com/r/ApksApps) - Updated list of modded APK's / [Discord](https://discord.gg/J6FdvBxp7Q) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
+- ⭐ [Mobilism (Android)](https://forum.mobilism.org/viewforum.php?f=398) - Modded APK Download Forum
+- ⭐ [APKMirror](https://www.apkmirror.com/) - Untouched
+- ⭐ [ModdedCentral](https://t.me/ModdedCentral) - Modded / Telegram
+- ⭐ [M.D. Super App Store](https://www.filelinked.com/) - Modded Streaming App Repo, use code "85810914" in file linked
+  - [FileLinked Codes](https://reviewvpn.com/best-filelinked-codes/)
+  - [FileLinked Codes 2](https://iptvapks.com/filelinked-codes/)
+- ⭐ [Android FOSS](https://github.com/offa/android-foss)**, ⭐ [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md) , **[/r/u_Jackie7610](https://redd.it/jhtvn4) or ⭐ [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - Free and Open Source Apps for Android
+- [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
+- [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
+- [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
+- [Apkpure](https://m.apkpure.com/) - Untouched
+- [Aurora Store](https://auroraoss.com/) - Alt Google Play Store / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
+- [Aptoide](https://aptoide.com/) - Alt Android App Store
+- [Android Zone](https://android-zone.ws/) - Forum
+- [APKGK](https://apkgk.com/) - Untouched
+- [AAPKS](https://aapks.com/) - Untouched
+- [APK-DL](https://apk-dl.com/) - Untouched
+- [Appvn](https://appvn.com/) - Untouched
+- [APKCombo](https://apkcombo.com/) - Untouched
+- [APKHere](https://www.apkhere.com/) - Untouched
+- [APK Vision](https://apkvision.com/) - Untouched
+- [APK Award](https://apkaward.com/) - Untouched
+- [Android APK](https://android-apk.org/) - Untouched / Modded
+- [APKSum](https://www.apksum.com/) - Untouched / Modded
+- [A2Z APK](https://a2zapk.com/) - Untouched / Modded
+- [RevDl](https://www.revdl.com/) - Modded
+- [AndroidGameMods](https://www.androidgamemods.com/) - Modded
+- [farsroid](https://www.farsroid.com/) - Modded
+- [APKTops](https://www.apktops.ir/) - Modded
+- [ModDroid](https://moddroid.com/) - Modded
+- [Apk4Free](https://apk4free.org/) - Modded / [Telegram](https://t.me/Apk4Free)
+- [Android1](https://an1.com/) - Modded
+- [APKBuffet](https://drive.google.com/drive/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT) - Modded / [Requests](https://twitter.com/ipagarage?s=21)
+- [HappyMod](https://www.happymod.com/) - Modded
+- [DZAPK](https://dzapk.com/) - Modded
+- [Apk4All](https://apk4all.com/) - Modded
+- [ReXdl](https://rexdl.com/) - Modded
+- [Source of APK](https://sourceofapk.com/) - Modded
+- [AGXAPKS](https://www.agxapks.com/) - Modded
+- [iHackedit](http://ihackedit.com/) - Modded
+- [AndroPalace](https://www.andropalace.org/) - Modded
+- [APK Home](https://apkhome.net/) - Modded
+- [DlAndroid](https://dlandroid.com/) - Modded
+- [APKMody](https://apkmody.io/) - Modded
+- [APKDone](https://apkdone.com/) - Modded
+- [APK Folks](https://apkfolks.com/) - Modded
+- [ModApk.Cloud](https://modapk.cloud/) - Modded
+- [Rockmods](https://www.rockmods.net/) - Modded
+- [ApkMagic](https://apkmagic.com.ar/) - Modded
+- [ApKGod](https://apkgod.net/) - Modded
+- [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
+- [djjubeemedia](https://www.djjubeemedia.appboxes.co/Apks/) - Modded Index
+- [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
+- [Gdrivehub Apps](https://t.me/gdrivehubapps) - Modded / Telegram
+- [Cracked Apps](https://t.me/crackedapks) - Modded / Telegram
+- [DroidApks](https://t.me/DroidApks) - Modded / Telegram
+- [apkmod_s](https://t.me/apkmod_s) - Modded / Telegram
+- [Pro App Share](https://t.me/proappshare) - Modded / Telegram
+- [xdapiratesbot](https://t.me/joinchat/AAAAAEGvyb2EPtoW2_Yf-A) - Modded / Telegram
+- [Software_Android_Apps_Games](https://t.me/Software_Android_Apps_Games) - Modded / Telegram
+- Haxnode - [APKs](https://haxnode.com/category/android-apps/) / [Games](https://haxnode.com/category/android-games/) - Cracked APKs &amp; Modded Game APKs
+- [FossDroid](https://fossdroid.com/) - Open source apps + /r/fossdroid
+- [Moderse ](https://t.me/Moderse) - Android Apk Telegram Channel by well know modder- Stabiron
+- [APK Downloader ](https://apk.support/apk-downloader) - Download Google Play apks
+- [evozi](https://apps.evozi.com/apk-downloader) - Download Google Play apks
+- [Blackmod](https://blackmod.net/) - Modded Game APKs
+- [App filter](https://appfilter.net/) - Play Store Advanced Search
+- /r/googleplaydeals - Paid apps
+- [Android App Sales](https://t.me/androidappsales) - Paid apps / Telegram
+- [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - Paid apps
+- [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - Paid apps
 - [r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) - Modded Android app releases subreddit.
-- [r/ApksApps](https://www.reddit.com/r/apksapps) - "The best Modded apps on Reddit.".
-- [APKMirror](https://www.apkmirror.com/) - Download free Android APKs.
 - [APK Mirror Download](https://www.apkmirrordownload.com/) - Popular vietnamese website to download APK's.
 - [APKHouse](https://apkhouse.com) - Provides mirrors for various Android apps incl. games.
-- [iHackedit](https://ihackedit.com/) - Provides Android Apps & Games including Mods.
 - [Sbenny](https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
 - [ApkPure](https://apkpure.com/) - Another free APK mirror site.
 - [Androeed](https://www.androeed.ru/) - (RU) - Russian APK site.
 - [On HAX](https://onhax.me/) - APK Mods and mirrors.
-- [BlackMod](https://blackmod.net/) - Lots of cracked Android games.
 - [AiOwares.com](https://www.aiowares.com/) - RePacks, mods and other software.
-- [An1](https://an1.com/) - Provides apps & app mods.
-- [Android Zone](https://android-zone.ws/) - Koumkouat website for Android APK's/Games/GPS.
 - [Baltagy's Website](https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
 - [Release-APK](https://release-apk.com/) - Balatan's APK page.
-- [Platin Mods](https://platinmods.com/) - As the name says, provides several mods for apks's & games.
 - [Haxoff](https://haxoff.net/) - Haxoff provides cracked games & Android APK's.
 - [APK4Free](https://apk4free.net/) - Android apk mirrors and patches.
 - [APKDot](https://apkdot.com/) - APKMirror clone website.
-- [ApkDone](https://apkdone.com/)
-- [ModDroid](https://moddroid.com/)
 - [Techsquiral](https://techsquiral.io/) - A Hub of Latest Mod Apks.
 - [AndroidOyun](https://androidoyun.club/)
 
@@ -275,7 +336,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Another popular torrent client for Android.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) - Free, open source torrent client for Android phone, tablet, Chromebook, & Android TV.
-- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) - Flud is a simple and beautiful BitTorrent client for Android.
+- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Flud is a simple and beautiful BitTorrent client for Android.
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) - Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
@@ -288,30 +349,6 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Ponydroid](https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
 - [Advance Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
 - [IDM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager with Torrent download support.
-
-### Tools
-
-- [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification. It has a Xposed module which you can use (in case you use Xpose)
-- [Jasi Patcher (AKA Uret Patcher)](https://jaspreetsingh.store/jasi-patcher/) - Patching tool for android intended to bypass restrictions in the apps & games.
-  - [ToolKit](https://jaspreetsingh.store/index.php/jasi-toolkit/)
-- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) - Companion app for Ombi to request Plex content.
-- [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
-- [ProSmart](http://prosmart.by/) - -ProSmart is a russian site which provides several apks, mods and games.
-- [Trashbox](https://trashbox.ru/) - Trashbox is the russian Mobilism.
-- [YMusic](https://ymusic.io/) - YouTube Music Player & Downloader.
-- [NewPipe](https://newpipe.schabi.org/) - The original YouTube experience without annoying ads and questionable permissions.
-- [nzb360](http://nzb360.com/) - nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
-- [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go.
-- [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) - Enables you to remote control your desktop JDownloader from your pocket while you're on the go.
-- [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
-- [nzbUnity](https://nzbunity.dozenzb.com/) - iOS app for managing your favourite NZB applications.
-- [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
-- [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
-- [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
-- [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
-- [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 
 ### MagisK Modules
 
@@ -385,13 +422,38 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 - [s0meiyoshino](https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
 - [Unc0ver](https://unc0ver.dev/) - The most advanced jail-break tool.
+- [Can I Jailbreak](https://iosninja.io/jailbreak-wizard-can-i-jailbreak) - Check if your phone can be jailbroken
+- [IPSW](https://ipsw.me/) - Provides Jailbreak firmware
+- [Julioverne](https://julio.hackyouriphone.org/) - iOS Jailbreaking Tools
+- [Odyssey](https://theodyssey.dev/) - 13.0-13.5 Semi-tethered Jailbreak
+- [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - 11.0-13.5 Semi-tethered Jailbreak
+- [Jailbreak 13.5 Tweak Compatibility List](https://docs.google.com/spreadsheets/d/1cHL_bIcmON2L5euBM8NDk0SZ8w-VUE6oY3USbVqaLnA/edit?usp=sharing) - Find out what tweaks are compatible with the 13.5
+- [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak
+- [ReProvision](https://github.com/Matchstic/ReProvision) - On-device signing utility
+- [SHSH Host](https://shsh.host/) - Save SHSH blobs to upgrade/downgrade iOS versions
 
 ### Apps
 
+- ⭐ [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - Open Source iOS App Index
 - [MoviesDiary](https://itunes.apple.com/us/app/movies-diary/id1331405996) - Free Movies and TV shows streaming app with tracking feature.
 - [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902) - Similar like Popcorn Time.
 - [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497) - Another alternative for Cinema Time.
 - [Total files](https://itunes.apple.com/us/app/total-files/id557285579) - Basically the IDM under the iOS Download Manager.
+- [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - Hacked/Tweaked iOS App Library maintained by Shub
+- [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
+- [Tutubox](https://tutubox.io/) - Tweaked Apps Store
+- [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - Community Based Tweaked/Hacked iOS App Library\_ - [Their Twitter](https://twitter.com/ipagarage/) - \_For discussion, requests, and submissions
+- [AltStore](https://altstore.io/) - Alternative App Store
+- [ioshaven](https://ioshaven.com/apps) - Alternative App Store
+- [Kiiimo](https://cydia.kiiimo.org/) - App Repository
+- [iOSGods](https://iosgods.com/) - App Tweaks / Hacks / Mods
+- [ignition](https://ignition.fun/) - App Tweaks
+- [EonHub](https://app.eonhubapp.com/) - Hacked apps / Tweaks
+- [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks / [Anti Revoke](https://apps.apple.com/us/app/nullified/id1554556228)
+- [tweakboxapp](https://next.tweakboxapp.com/) or [tweakboxapp (sideloaded)](https://sideload.tweakboxapp.com/) - App Tweaks
+- [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps
+- [iPABox](https://apps.ipabox.store/ipalibrary/index.html) - Hacked / Tweaked iOS Apps
+- [iosninja](https://iosninja.io/ipa-library) - App Sideload Files
 
 ### Stores
 

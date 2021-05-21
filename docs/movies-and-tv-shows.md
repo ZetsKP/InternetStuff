@@ -65,7 +65,6 @@ sidebar_label: Movies and TV shows
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
   - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
   - [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows.
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Huge list by u/nbatman
 - [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Alternate subreddit curated by /u/nbatman.
 - [Movie123](http://movie123.club/) - Unique design, HD server with Backup and additional hosts.
@@ -426,3 +425,38 @@ sidebar_label: Movies and TV shows
 - [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 - [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
+
+## Android Tools
+
+- ⭐ [Cinehub](https://www.cinehub.app/) or [Cinehub.to](https://www.cinehub.to/) - Movies / TV / Chromecast
+- ⭐ [Stremio](https://www.stremio.com/) - Torrent Streaming / [Addons](https://redd.it/ahd6gk) / Use VPN
+- ⭐ [CinemaHD](https://cinemaapk.com/) - Movies / TV / Anime / Chromecast
+- ⭐ [PopcornTime.is](https://getpopcorntime.is/) - Movies / TV / Anime / Chromecast / Use VPN
+- [TyphoonTV](https://typhoontv.ml/) - Movies / TV / Anime + [Discord](https://discord.com/invite/PhY9cs2)
+- [CyberFlix TV](https://cybercloud.media) - Movies / TV / Anime / PW 1122
+- [Cunrchyroll Premium](https://forum.mobilism.org/search.php?keywords=crunchyroll&sr=topics&sf=titleonly)
+- [Kodi](https://kodi.tv/) + _/r/Addons4Kodi, [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) + [Trending](https://kodiapps.com/addons-chart)_
+- [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime
+- [PopcornTime.app](https://popcorntime.app/) - Movies / TV / Anime / Chromecast / Use VPN
+- [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
+- [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - Movies / TV / Anime / Chromecast
+- [ZiniTevi](https://zinitevi.github.io/movieapps/) - Movies
+- [CucoTV](https://cucotv.github.io/) - Movies / TV
+- [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
+- [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - Movies / TV / Anime / Chromecast
+- [Berg](https://www.funkymuse.dev/p/berg.html) - Movies / TV / Use VPN
+- [SupaFlix](https://supaflix.1mt.top/) - Movies / TV
+- [Pocket TV](https://pockettv.xyz/) - Movies / TV
+- [Rokkr](http://www.rokkr.net/) - _Movies / TV / Add "huhu.to" or "oha.to"_
+- [Airy TV](https://airy.tv/) - Legal / Live TV
+- [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents
+- [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english) - Chinese Drama
+- [aDrama](https://adrama.online/) - Asian Drama
+- [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer) - _KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama) RSS Player_
+- [mobi24](https://www.mobi24.net) - Anime / Cartoons / Drama / Manga
+- [VLC](https://www.videolan.org/vlc/download-android.html) or [MX Player](https://forum.mobilism.org/search.php?keywords=Mx+player&terms=all&author=Balatan&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Video Player
+- [Xtra](https://play.google.com/store/apps/details?id=com.github.exact7.xtra) or [TwitchMod](https://github.com/nopbreak/TwitchMod) - Modded Ad Free Twitch Client
+- [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
+- [Smart YouTube TV](https://smartyoutubetv.github.io/) - Ad-Free YouTube client for set-top boxes and Android-based TVs
+- [Great Courses Plus Premium](https://onehack.us/t/get-the-great-courses-plus-premium-android/92613) - Courses
+- [Showly 2.0](https://github.com/michaldrabik/showly-2.0) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - Movie / TV Tracker

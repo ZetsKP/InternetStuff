@@ -54,7 +54,6 @@ sidebar_label: Anime
 - [AnimePahe](https://animepahe.com/) - A minimilistic anime streaming/download website, subs only.
 - [AnimeRam](https://ww2.animeram.cc/) - A streaming website for dubbed/subbed anime.
 - [AnimeSeries](https://animeseries.co/) - Yet another anime streaming provider website.
-- [AniméGlare](https://animeglare.xyz/) - Watch ANIME not ADVERTISEMENTS.
 - [AniméVibe](http://animevibe.tv/) - Watch Anime Online Stream Ad-Free.
 - [animetoon](http://www.animetoon.org/) - Lots of streaming via premium hosts for cartoons.
 - [WatchAnime.info](https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
@@ -133,3 +132,20 @@ sidebar_label: Anime
 - [9Anime Downloader](https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
 - [Monimo](https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
 - [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) - in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
+- [AnimeGlare](https://animeglare.xyz/) + _[Discord](https://discord.gg/tN8hDNd)_
+- [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
+- [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
+- [AnimeTwistFlut](https://github.com/simrat39/AnimeTwistFlut/releases)
+- [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) + _[Discord](https://discord.com/invite/wKxRqKc)_
+- [AnimeUltima](https://www1.animeultima.to/app) + _[Discord](https://discord.gg/T3sDrtf)_
+- [AnimeBoya](https://github.com/Tu2l/AnimeBoya)
+- [Animebay](https://animebay.tech/)
+- [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube) - Anime
+- [Animezone](https://animezone.info/) - Anime / [GitHub](https://github.com/spyderbibek/Anime-Zone)
+- [KATSU](https://katsu.pw/) + [Discord](https://discord.gg/gjcy6MQ)
+- [Anime HD 3.0](https://archive.org/details/anime-hd.-3.0)
+- [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN)
+- [NineAnimator](https://nineanimator.marcuszhou.com/) + _[Discord](https://discord.gg/dzTVzeW)_
+- [AnimeGlare](https://apps.apple.com/us/app/animeglare/id1472011019)
+- [AnimeHub](https://apps.apple.com/ca/app/animehub-an-anime-fan-haven/id882620151)
+- [TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) + _[Discord](https://discord.com/invite/8fzmNSB)_

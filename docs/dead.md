@@ -36,3 +36,6 @@ This basically graveyard for all the dead links. None the links here are active 
 - [Yiff.Party](https://web.archive.org/web/*/yiff.party/) - [source code](https://web.archive.org/web/*/github.com/yiffparty/tracker) - Web scraper website that uses bots to crawl various different Patreon campaigns, mainly those of furry content creators.
   - [YiffyScraper](https://github.com/yiffscraper/yiffscraper) - Based on the original script by u/KilljoyWonderland, and new and updated + working versions to script for scraping content off YP.
 - [HWIDGEN](https://web.archive.org/web/*/github.com/CHEF-KOCH/HWIDGEN-SRC) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods.
+
+- [r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezloader.
+- [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) - Another program with the same purpose, both based on the original, now defunct Deezloader.
