@@ -21,6 +21,7 @@ sidebar_label: Courses
 - [FreeCourseLab](https://freecourselab.com/) - Download Paid Udemy Courses Free.
   - [Mirror](https://www.freecoursesonline.me/)
 - [freecoursesite.us](https://freecoursesite.us/) - Download All Udemy Paid Courses And Tutorials Free.
+- [FreeCourse.tech](https://freecourse.tech/) - Alternative to freetutorials.us, provides similar service.
 - [FreeCourses](http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
 - [FTU Forum](https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
 - [Gigacourse](https://gigacourse.com/) - Gigacourse provides coding courses.
