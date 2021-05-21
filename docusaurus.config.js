@@ -26,11 +26,10 @@ module.exports = {
         },
       ],
     },
-    // will enable when the index name will be updated
-    // algolia: {
-    //   apiKey: "5470eae5ca52eb07867cedc3fdd33424",
-    //   indexName: "awesome_piracy",
-    // },
+    algolia: {
+      apiKey: "5470eae5ca52eb07867cedc3fdd33424",
+      indexName: "awesome_piracy",
+    },
     prism: {
       theme: require("prism-react-renderer/themes/dracula"),
     },
