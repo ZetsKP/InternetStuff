@@ -57,7 +57,7 @@ sidebar_label: Ad Blocking
 - ⭐ [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) or [WebApps](https://github.com/tobykurien/WebApps/) - Makes streaming and other sites more usable for android
 - ⭐ [Bromite](https://www.bromite.org/) - Android browser with powerful adblocking
 - ⭐ [AdGuard](https://forum.mobilism.org/search.php?keywords=adguard&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=25&t=0&submit=Search) - Adblocking App / Premium Unlocked / Mobilism Account Required
-- ⭐ uBlock Origin - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) &amp; [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- ⭐ uBlock Origin - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Blokada](https://blokada.org/) - Adblocking App
 - [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. needs ROOT access.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSfilter](https://f-droid.org/en/packages/dnsfilter.android/), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/) - DNS Adblocker

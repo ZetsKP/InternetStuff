@@ -12,7 +12,6 @@ sidebar_label: Privacy
 - [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 - [Protecting yourself from being caught pirating - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
-- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) - versions.
 - [That One Privacy Site](https://thatoneprivacysite.net/) - VPN and email service comparisons.
 - [Authy](https://authy.com/) - Two-Factor Authentication
@@ -53,7 +52,6 @@ sidebar_label: Privacy
 - [Spyware Watchdog](https://spyware.neocities.org/) - Spyware Program Index
 - [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
 - [V2Ray](https://v2ray.com/en/) - Build your own privacy network
-- [Element](https://element.io/), [qTox](https://qtox.github.io/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Wickr](https://wickr.com/) - Encrypted Messaging / Video Calls
 - [Cryptodog](http://doggyfipznipbaia.onion/) or [torbitamzta34aai](http://torbitamzta34aai.onion/) - Anonymous Chat Room / .onion
 - [Hexchat](https://hexchat.github.io/) - Private IRC Client
 - [Scout](https://www.scout.tel/phone-number-lookup) - Phone Number Lookup / Safety Check
@@ -509,7 +507,7 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [Stingle Photos](https://stingle.org/) - Private Photo / Video Gallery
 - [Threema](https://mirrorace.com/m/3DIja), [Session](https://getsession.org/), [Status](https://status.im/), [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [ChatSecure](https://ballinger.io/apps/chatsecure/), [surespot](https://www.surespot.me/) or [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/) - Encrypted Messaging
 - [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
-- [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/) or [Element](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
+- [Wickr](https://wickr.com/), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [qTox](https://qtox.github.io/), [Tox](https://tox.chat/) or [Element](https://element.io/) - Encrypted Messaging / Video Calls
 - [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - Bypass Deep Packet Inspection
 - [Greentooth](https://f-droid.org/en/packages/com.smilla.greentooth/) - Automatic Bluetooth Disabler
