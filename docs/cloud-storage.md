@@ -29,13 +29,32 @@ sidebar_label: Cloud Storage
 ## Google Team Drives
 
 - [A complete guide of Google Shared drive (Team drive)](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
-- [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
-- [Google Team Drive](https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
-- [Get Free Google Shared Drive](http://leon.educationhost.cloud) - Create your own TeamDrive for free.
+  TeamDrive for free.
 - [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
 - [whatintheworld](https://whatintheworld.xyz/) - Search Team Drives resources.
+
+### Google Shared Drive Generators
+
+- [teamdrive.mfoxx.workers.dev](https://teamdrive.mfoxx.workers.dev/)
+- [td.crackhub.site](https://td.crackhub.site/)
+- [gd.404edu.workers.dev](https://gd.404edu.workers.dev/)
+- [teamdrive.xcpx.workers.dev](https://teamdrive.xcpx.workers.dev/)
+- [white-limit-b897.kfuentes.workers.dev](https://white-limit-b897.kfuentes.workers.dev/)
+- [drive.hackgence-com.workers.dev](https://drive.hackgence-com.workers.dev/)
+- [penglai.ga](https://penglai.ga/)
+- [td.msgsuite.workers.dev](https://td.msgsuite.workers.dev/)
+- [team.hackgence.com](https://team.hackgence.com/)
+- [td.hackgence.com](https://td.hackgence.com/)
+- [gd.zxd.workers.dev](https://gd.zxd.workers.dev/)
+- [driveflask.herokuapp.com](https://driveflask.herokuapp.com/)
+- [tv.ssr.workers.dev](https://tv.ssr.workers.dev/)
+- [team.leehaiha.com](https://team.leehaiha.com/)
+- [generator.driveindex.ga](https://generator.driveindex.ga/)
+- [tb.mygindex.workers.dev](https://tb.mygindex.workers.dev/)
+- [create.klprojects.tech](https://create.klprojects.tech/)
+- [team.isumit.workers.dev](https://team.isumit.workers.dev/)
 
 ### Google Team Drives Groups and Discussions
 
