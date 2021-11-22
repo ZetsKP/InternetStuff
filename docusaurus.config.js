@@ -27,7 +27,8 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: "5470eae5ca52eb07867cedc3fdd33424",
+      appId: 'WYRH3S2A0X',
+      apiKey: "0a6a45016a48150080777cd972b18420",
       indexName: "awesome_piracy",
     },
     prism: {
