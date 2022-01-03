@@ -6,6 +6,7 @@ sidebar_label: Paywalls
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
+- [Bypass Paywalls Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - A fork of Bypass Paywalls with a wider support of sites.
 - [Outline](https://outline.com/) - Outline is a free service for reading and annotating news articles.
   - [Browser extensions](https://github.com/ymolodtsov/outline/)
 - [Unpaywall](https://unpaywall.org/) - An open database of 20 million free scholarly articles.
