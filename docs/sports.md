@@ -41,11 +41,11 @@ sidebar_label: Sports
 - [VIPBox](https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
 - [NBAFullHD](https://www.nbafullhd.com/) - Full NBA games.
 - [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games.
-- [WatchRaw](hhttp://watchraw.com/) - Various Sports replays.
-- [WatchWrestling24](hhttp://watchwrestling24.net/) - Replays for MMA, WWE.
-- [Allwrestling](hhttp://www.allwrestling.live/) - Replays for MMA, WWE.
+- [WatchRaw](http://watchraw.com/) - Various Sports replays.
+- [WatchWrestling24](http://watchwrestling24.net/) - Replays for MMA, WWE.
+- [Allwrestling](http://www.allwrestling.live/) - Replays for MMA, WWE.
 - [WatchWrestling](https://watchwrestling.in/) - Replays for MMA, WWE.
-- [Bbellator](hhttp://www.bellator.com/events) - Replays for MMA, WWE.
+- [Bbellator](http://www.bellator.com/events) - Replays for MMA, WWE.
 - [Highlightstore](https://www.highlightstore.me/) - Replays for multiple sports.
 - [MMACore](https://www.mma-core.com/videos/home)
 - [GOMOSTREAM.com](https://gomostream.com/) - Free Live Local TV Channels Sky Sports 12345, Btsports 123 ESPN, Eurosports 12, Star Sports 123, ITV beIN, Fox, Ten, Digi, PTV Sports Online Streaming.
