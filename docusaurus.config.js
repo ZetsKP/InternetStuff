@@ -21,7 +21,7 @@ const config = {
       image: "img/ogimage.png",
       algolia: {
         appId: "WYRH3S2A0X",
-        apiKey: "0a6a45016a48150080777cd972b18420",
+        apiKey: "7b1d879342446005dbe681114a1815e5",
         indexName: "awesome_piracy",
       },
       autoCollapseSidebarCategories: true,
