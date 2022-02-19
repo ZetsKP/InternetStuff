@@ -1,8 +1,7 @@
 ---
-id: home
-slug: /
 title: Piracy Index
 sidebar_label: Home
+sidebar_position: 1
 ---
 
 This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.

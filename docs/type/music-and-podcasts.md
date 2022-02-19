@@ -50,7 +50,7 @@ sidebar_label: Music and podcasts
 - [SongsPK](https://songs-pk.in/) - Mainly for downloading Bollywood songs. Domain changes frequently.
 - [mp3Clan](http://mp3guild.com/) - Free music streaming.
 - [mp3.li](http://mp3li.unblckd.club) - Another MP3 streaming site.
-- [slider.kz](http://slider.kz/) - Quirky and fast music streaming site. 
+- [slider.kz](http://slider.kz/) - Quirky and fast music streaming site.
 - [nuclear.js.org] (https://nuclear.js.org/) - Youtube, Soundcloud and more streaming app with sponsorblock and discord rich presence.
 
 ## Downloading
