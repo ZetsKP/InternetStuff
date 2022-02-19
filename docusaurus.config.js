@@ -22,6 +22,7 @@ const config = {
       algolia: {
         appId: "WYRH3S2A0X",
         apiKey: "7b1d879342446005dbe681114a1815e5",
+        indexName: "awesome_piracy",
       },
       autoCollapseSidebarCategories: true,
       navbar: {
