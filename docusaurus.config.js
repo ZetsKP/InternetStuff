@@ -15,41 +15,47 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "xuac",
   projectName: "piracy",
-  themeConfig: {
-    image: "img/ogimage.png",
-    algolia: {
-      appId: "WYRH3S2A0X",
-      apiKey: "844575fe6602771c605001411bc72fc3",
-      indexName: "awesome_piracy",
-    },
-    autoCollapseSidebarCategories: true,
-    navbar: {
-      title: "Piracy",
-      logo: {
-        alt: "",
-        src: "img/logo.svg",
-        srcDark: "img/darklogo.svg",
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      image: "img/ogimage.png",
+      algolia: {
+        appId: "WYRH3S2A0X",
+        apiKey: "844575fe6602771c605001411bc72fc3",
+        indexName: "awesome_piracy",
       },
-      items: [
-        {
-          href: "https://gitlab.com/piracy/piracy",
-          label: "GitLab",
-          position: "right",
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
         },
-      ],
-    },
-    prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
-    },
-    announcementBar: {
-      id: "star",
-      content:
-        '<b><a target="_blank" href="https://gitlab.com/piracy/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITLAB</a></b>',
-      backgroundColor: "var(--ifm-background-surface-color)",
-      textColor: "var(--ifm-color-primary)",
-    },
-  },
+      },
+      navbar: {
+        title: "Piracy",
+        logo: {
+          alt: "",
+          src: "img/logo.svg",
+          srcDark: "img/darklogo.svg",
+        },
+        items: [
+          {
+            href: "https://gitlab.com/piracy/piracy",
+            label: "GitLab",
+            position: "right",
+          },
+        ],
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+      announcementBar: {
+        id: "star",
+        content:
+          '<b><a target="_blank" href="https://gitlab.com/piracy/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITLAB</a></b>',
+        backgroundColor: "var(--ifm-background-surface-color)",
+        textColor: "var(--ifm-color-primary)",
+      },
+    }),
   presets: [
     [
       "classic",

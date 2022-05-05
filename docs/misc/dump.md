@@ -1,6 +1,6 @@
 ---
-title: Miscellaneous
-sidebar_label: Misc
+title: More Miscellaneous Items
+sidebar_label: Dump
 ---
 
 - [r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
